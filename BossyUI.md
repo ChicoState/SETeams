@@ -13,3 +13,7 @@
 #Myron Kant
 * Left 4 Dead 2, Reading, Triathlon
 * Computer Science, Junior
+
+#Tyler Chaney
+* Outdoors, Computers, Poker
+* Computer Information Systems, Senior
