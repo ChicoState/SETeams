@@ -8,3 +8,8 @@ Brennan Miller - bmiller42
 * Basketball, Video games
 * Computer Science
 * Sophomore
+
+#Emanuel Tapia
+* mma, games, programming
+* Computer Science/Junior
+
