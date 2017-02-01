@@ -15,6 +15,6 @@
 
 #Jasmine Lee
 
-* Video games, HTC Vive, Baking
+* Video games, HTC Vive
 * Computer Science (Sophmore)
 
