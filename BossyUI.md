@@ -10,3 +10,7 @@
 #Luke Cramer
 * Tennis, Computers, eSports, Star Wars
 * Computer Science, Junior
+
+#Tyler Chaney
+* Outdoors, Computers, Poker
+* Computer Information Systems, Senior
