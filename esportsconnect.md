@@ -10,7 +10,7 @@
 
 #Deny Vugdalic
 
-* Video games, movies
+* Video games, coding
 * Computer Engineering (Senior)
 
 #Jasmine Lee
