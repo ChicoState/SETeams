@@ -17,3 +17,7 @@
 #Tyler Chaney
 * Outdoors, Computers, Poker
 * Computer Information Systems, Senior
+
+#Sam Miller
+* Computer Engineering, Junior
+* programming, playing keyboard/piano, making games
