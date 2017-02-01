@@ -3,6 +3,11 @@
 * Gaming
 * Computer Engineer (Senior)
 
+#Dustin Criger
+
+* Gaming (MMORPG's mainly)
+* Computer Engineer (Senior)
+
 #Deny Vugdalic
 
 * Video games, movies
@@ -12,3 +17,4 @@
 
 * Video games, HTC Vive
 * Computer Science (Sophmore)
+
