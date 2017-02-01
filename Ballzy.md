@@ -3,3 +3,7 @@ Brennan Miller - bmiller42
     Minor: Business Administration 
     Senior
     Interests: Computer proramming
+
+#Inderdeep Sandhar
+* Basketball, Video Games
+* Computer Science, Sophomore
