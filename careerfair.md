@@ -5,7 +5,8 @@
 **
 *Chris
 **
-*Christian
-**
+*Cristian
+*Embedded Systems
+*Computer Engineering/Jr.
 *Jefferey
 **
