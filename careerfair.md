@@ -18,3 +18,6 @@
 * Computer Engineering/Jr.
 
 ##Jefferey
+
+* Soccer 
+* Computer Science
