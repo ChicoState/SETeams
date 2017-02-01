@@ -10,5 +10,5 @@
 
 #Jasmine Lee
 
-* Video games
+* Video games, HTC Vive
 * Computer Science (Sophmore)
