@@ -5,5 +5,6 @@ Brennan Miller - bmiller42
     Interests: Computer proramming
 
 #Inderdeep Sandhar
-* Basketball, Video Games
-* Computer Science, Sophomore
+* Basketball, Video games
+* Computer Science
+* Sophomore
