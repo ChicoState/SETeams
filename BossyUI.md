@@ -1,7 +1,6 @@
 #Luke Short
 * MTB, pr0gramming, yoga, Star Wars
 * Computer Engineering, Senior
-<<<<<<< HEAD
 
 #Tammi Fleet
 * Computer Science, Junior
