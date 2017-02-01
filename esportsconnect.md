@@ -5,7 +5,7 @@
 
 #Dustin Criger
 
-* Gaming (MMORPG's mainly)
+* Gaming
 * Computer Engineer (Senior)
 
 #Deny Vugdalic
