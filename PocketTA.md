@@ -8,6 +8,7 @@
 #Jacob
 *
 #Bruce
-*
+* Major: Computer Engineering
+* Interests: Football, Fraternity, C coding, Embedded system development
 #Arthur
 *
