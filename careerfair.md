@@ -1,6 +1,5 @@
 # Career Fair
 # Frank Estrada
-* Call of Duty
 # Chris Martinez
 * 
 # Cris Silva
@@ -9,3 +8,14 @@
 *
 # Jeffrey Pereira
 * 
+#Career Fair
+*Frank
+** Call of Duty
+*Pedro
+**
+*Chris
+**
+*Christian
+**
+*Jefferey
+**
