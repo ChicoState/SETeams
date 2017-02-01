@@ -1,10 +1,10 @@
 #Frank
-** Call of Duty
+** Call of Duty/CSCI Sr.
 #Pedro
 **
 #Chris
 **
-#Christian
-**
+#Cristian
+*Embedded Systems
+*Computer Engineering/Jr.
 #Jefferey
-**
