@@ -1,12 +1,12 @@
-#Frank
+##Frank
 * Call of Duty/CSCI Sr.
-#Pedro
+##Pedro
 * Is a Gee who codes.
 * Computer Science/Sophmore
-#Chris
+##Chris
 * Depends on the day
 * Computer Science/Sr.
-#Cristian
+##Cristian
 * Embedded Systems
 * Computer Engineering/Jr.
-#Jefferey
+##Jefferey
