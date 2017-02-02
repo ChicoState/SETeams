@@ -11,3 +11,7 @@
 * mma, games, programming
 * Computer Science/Junior
 
+#Cameron Smith
+* Gaming, Comics
+* Computer Science, Sophomore
+
