@@ -5,13 +5,15 @@ Computer Engineer, Senior
 Computer Science, Senior
 
 #Frank Wangberg
-*Computer Engineering, Senior
-*Likes to run
+
+* Computer Engineering, Senior
+* Likes to run
 
 #Ying Xiong
-*Music
-*Computer Animation/Game Design
-*Minor with Computer Science
+
+* Music
+* Computer Animation/Game Design
+* Minor with Computer Science
 
 #Sean Michaels
-*Computer Engineering, Senior
+* Computer Engineering, Senior
