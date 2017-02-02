@@ -1,6 +1,6 @@
-#Brennan Miller - bmiller42
-*Major: Computer Information Systems/Senior
-*Interests: Computer proramming
+#Brennan Miller
+* Major: Computer Information Systems/Senior
+* Interests: Computer proramming
 
 #Inderdeep Sandhar
 * Basketball, Video games
