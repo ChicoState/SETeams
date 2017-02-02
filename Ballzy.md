@@ -14,4 +14,7 @@
 #Cameron Smith
 * Gaming, Comics
 * Computer Science, Sophomore
-
+#Carlos Perez
+* Boxing, Video Games, Music, Girls
+* Computer Science
+* Junior Standing
