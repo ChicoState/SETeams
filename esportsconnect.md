@@ -18,3 +18,7 @@
 * Video games, HTC Vive
 * Computer Science (Sophmore)
 
+#Kobi (Jacob) Tessman
+
+* Gaming
+* Computer Science (Sophomore) 
