@@ -17,4 +17,4 @@ Computer Science, Senior
 
 #Sean Michaels
 * Computer Engineering, Senior
-* Yup
+* 
