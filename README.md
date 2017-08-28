@@ -4,7 +4,7 @@
 
 * 3D Printing Club
 * AltaPuntos
-* BossyUI
+* [BossyUI](BOSSYUI.md)
 * Crypto
 * ENTNow
 * Music App
