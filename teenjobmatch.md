@@ -3,3 +3,4 @@
 * Katherine Jouzapaitis, [codingkitty81](https://github.com/codingkitty81)
 * Briana Jakell, [bjakell](https://github.com/bjakell)
 * Gerald Damiano, [gadipraja](https://github.com/gadipraja)
+* Long Nguyen, [zakelong81](https://github.com/zakelong81)
