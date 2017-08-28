@@ -8,6 +8,6 @@
 * [Crypto](crypto.md)
 * [ENTNow](ENTNow.md)
 * Music App
-* Smart Nap
+* [Smart Nap](smartnap.md)
 * Teen Job Match
 * Voltanium
