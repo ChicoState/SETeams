@@ -7,8 +7,8 @@
 
 [Currently Deployed website](http://chicostate3dp.club/)
 
-Daniel Rush,[theDrsh](https://github.com/theDrsh)
-Scott White, [swhite39](https://github.com/swhite39)
-Kenneth Shipley, [shipwreck72] (https://github.com/shipwreck72)
-Michael Sutton, [msutton7] (https://github.com/msutton7)
-Daniel Leonardo, [DanLeonardo](https://github.com/DanLeonardo)
+* Daniel Rush,[theDrsh](https://github.com/theDrsh)
+* Scott White, [swhite39](https://github.com/swhite39)
+* Kenneth Shipley, [shipwreck72] (https://github.com/shipwreck72)
+* Michael Sutton, [msutton7] (https://github.com/msutton7)
+* Daniel Leonardo, [DanLeonardo](https://github.com/DanLeonardo)
