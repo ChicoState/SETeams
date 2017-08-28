@@ -1,1 +1,2 @@
-[Brian Smith](https://github.com/BrianSmithsGit)
+*[Brian Smith](https://github.com/BrianSmithsGit)
+*[Kellee Cuellar](https://github.com/kcuellar)
