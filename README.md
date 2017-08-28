@@ -2,7 +2,7 @@
 
 ## These are the teams for CSCI 430, Fall 2017:
 
-* [3D Printing Club](3dprinting.md)
+* [3D Printing Club](3dprintingclub.md)
 * AltaPuntos
 * [BossyUI](BOSSYUI.md)
 * Crypto
