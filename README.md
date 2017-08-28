@@ -1,10 +1,13 @@
-#Software Engineering
+# Software Engineering
 
-##These are the teams for CSCI 430, Spring 2017:
+## These are the teams for CSCI 430, Fall 2017:
 
-* Ballzy
+* 3D Printing Club
+* AltaPuntos
 * BossyUI
-* eSports Connect
-* Job Match
-* MESA Career Fair
-* Pocket TA
+* Crypto
+* ENTNow
+* Music App
+* Smart Nap
+* Teen Job Match
+* Voltanium
