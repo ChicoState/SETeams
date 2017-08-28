@@ -6,7 +6,7 @@
 * AltaPuntos
 * [BossyUI](BOSSYUI.md)
 * Crypto
-* ENTNow
+* [ENTNow](ENTNow.md)
 * Music App
 * Smart Nap
 * Teen Job Match
