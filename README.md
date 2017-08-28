@@ -7,7 +7,7 @@
 * [BossyUI](BOSSYUI.md)
 * [Crypto](crypto.md)
 * [ENTNow](ENTNow.md)
-* Music App
+* [Music App](MusicApp.md)
 * Smart Nap
 * Teen Job Match
 * Voltanium
