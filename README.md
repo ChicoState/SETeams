@@ -5,7 +5,7 @@
 * 3D Printing Club
 * AltaPuntos
 * [BossyUI](BOSSYUI.md)
-* Crypto
+* [Crypto](crypto.md)
 * ENTNow
 * Music App
 * Smart Nap
