@@ -10,4 +10,4 @@
 * Music App
 * Smart Nap
 * Teen Job Match
-* [Voltanium](https://github.com/ChicoState/SETeams/blob/master/voltanium.md)
+* [Voltanium](voltanium.md)
