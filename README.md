@@ -5,7 +5,7 @@
 * [PrintQ](printq.md)
 * [AtraPuntos](atrapuntos.md)
 * [BossyUI](BOSSYUI.md)
-* [Crypto](crypto.md)
+* [Crypto](secrypt.md)
 * [ENTNow](ENTNow.md)
 * [Music App](MusicApp.md)
 * [Smart Nap](smartnap.md)
