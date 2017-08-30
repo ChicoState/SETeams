@@ -1,5 +1,5 @@
 # Private Repo
-# 3D Printing club website and webapp
+# PrintQ
     Creating a new application and website for the 3D printing club. Links and resources can be found below.
 ## Project:
 [Project Proposal](https://docs.google.com/presentation/d/10ZYKtYSHWn1_eK1kr6l8WTnBeN3-L0caCGtaAOWoAzg/edit?usp=sharing)
