@@ -2,7 +2,7 @@
 
 ## These are the teams for CSCI 430, Fall 2017:
 
-* [PrintQ](PrintQ.md)
+* [PrintQ](printq.md)
 * [AtraPuntos](atrapuntos.md)
 * [BossyUI](BOSSYUI.md)
 * [Crypto](crypto.md)
