@@ -1,3 +1,5 @@
-- Aaron Shaffer, [username](https://github.com/ClassicSours)
-- Oliver Wong, [username](https://github.com/Mriewer)
-- Michael Riewer, [username](https://github.com/oliverrayreed)
+- Aaron Shaffer, [ClassicSours](https://github.com/ClassicSours)
+- Oliver Wong, [oliverrayreed](https://github.com/oliverrayreed)
+- Michael Riewer, [Mriewer](https://github.com/Mriewer)
+- Matthew Samuel, [matthewsamuel95](https://github.com/matthewsamuel95)
+
