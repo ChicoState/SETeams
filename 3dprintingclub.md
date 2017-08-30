@@ -1,3 +1,4 @@
+# Private Repo
 # 3D Printing club website and webapp
     Creating a new application and website for the 3D printing club. Links and resources can be found below.
 ## Project:
@@ -7,7 +8,7 @@
 
 [Currently Deployed website](http://chicostate3dp.club/)
 
-* Daniel Rush,[theDrsh](https://github.com/theDrsh)
+* Daniel Rush, [theDrsh](https://github.com/theDrsh)
 * Scott White, [swhite39](https://github.com/swhite39)
 * Kenneth Shipley, [shipwreck72](https://github.com/shipwreck72)
 * Michael Sutton, [msutton7](https://github.com/msutton7)
