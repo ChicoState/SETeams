@@ -7,7 +7,7 @@
 * [BossyUI](BOSSYUI.md)
 * [SECrypt](secrypt.md)
 * [ENTNow](ENTNow.md)
-* [Music App](MusicApp.md)
+* [JamQ](JamQ.md)
 * [Smart Nap](smartnap.md)
 * [Teen Job Match](teenjobmatch.md)
 * [Voltanium](voltanium.md)
