@@ -6,4 +6,4 @@
 * Max Schimm, [mjschimm](https://github.com/mjschimm) 
 * Brian Sullivan, [bsullivan8](https://github.com/bsullivan8)
 
-We are going to be using a private repository to start, and then we are going toconsider making it public when we are closer to finishing. This decision depends on the client.
+We are going to be using a private repository to start, and then we are going to consider making it public when we are closer to finishing. This decision depends on the client.
