@@ -2,12 +2,12 @@
 
 ## These are the teams for CSCI 430, Fall 2017:
 
-* [3D Printing Club](3dprintingclub.md)
-* AltaPuntos
+* [PrintQ](printq.md)
+* [AtraPuntos](atrapuntos.md)
 * [BossyUI](BOSSYUI.md)
-* [Crypto](crypto.md)
+* [SECrypt](secrypt.md)
 * [ENTNow](ENTNow.md)
-* [Music App](MusicApp.md)
+* [JamQ](JamQ.md)
 * [Smart Nap](smartnap.md)
 * [Teen Job Match](teenjobmatch.md)
-* Voltanium
+* [Voltanium](voltanium.md)
