@@ -1,4 +1,4 @@
-Voltanium
+# __Voltanium__
 
 * Elliott Allmann, [elliottallmann](https://github.com/elliottallmann) 
 * Jordan Laney, [JordanLaney](https://github.com/JordanLaney) 
