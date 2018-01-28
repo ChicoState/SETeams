@@ -1,6 +1,10 @@
 # Software Engineering
 
-## These are the teams for CSCI 430, Fall 2017:
+## CSCI 430 (Spring 2018):
+
+*
+
+## CSCI 430 (Fall 2017):
 
 * [PrintQ](printq.md)
 * [AtraPuntos](atrapuntos.md)
