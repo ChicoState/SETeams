@@ -1,3 +1,3 @@
 
-Jordan Allen
-Jonathon Rudy
+* Jordan Allen
+* Jonathon Rudy [JonRudy](https://github.com/JonRudy)
