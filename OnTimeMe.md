@@ -1,3 +1,3 @@
 # OnTimeMe 
 
-Athit Vue [a link](https://github.com/avue7)
+[Athit Vue](https://github.com/avue7)
