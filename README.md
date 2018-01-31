@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Spring 2018):
 
-*
+* [What Can I Cook?](wcic.md)
 
 ## CSCI 430 (Fall 2017):
 
