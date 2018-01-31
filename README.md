@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Spring 2018):
 
+* [What Can I Cook?](wcic.md)
 * [safebaby](safebaby.md)
 * [Friendster](Friendster.md)
 * [BossyUI](BOSSYUI.md)
