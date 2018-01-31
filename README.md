@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Spring 2018):
 
+* [safebaby](safebaby.md)
 * [Friendster](Friendster.md)
 * [BossyUI](BOSSYUI.md)
 * [Parkr](parkr.md)
