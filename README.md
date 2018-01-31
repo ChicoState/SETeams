@@ -7,6 +7,7 @@
 * [Friendster](Friendster.md)
 * [BossyUI](BOSSYUI.md)
 * [Parkr](parkr.md)
+* [dynamicLabs](dynamicLabs.md)
 
 ## CSCI 430 (Fall 2017):
 
