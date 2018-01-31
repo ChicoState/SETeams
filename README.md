@@ -2,8 +2,8 @@
 
 ## CSCI 430 (Spring 2018):
 
-* [Parkr](parkr.md)
 *
+* [Parkr](parkr.md)
 
 ## CSCI 430 (Fall 2017):
 
