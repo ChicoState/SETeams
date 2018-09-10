@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2018):
 
 * [ToDo-List](todo-list.md)
+* [BlackInkEconomics](BlackInkEconomics.md)
 
 ## CSCI 430 (Spring 2018):
 
