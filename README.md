@@ -2,6 +2,8 @@
 
 ## CSCI 430 (Fall 2018):
 
+* [ToDo-List](todo-list.md)
+
 ## CSCI 430 (Spring 2018):
 
 * [OnTimeMe](OnTimeMe.md)
