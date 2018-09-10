@@ -2,3 +2,4 @@
 * Austin Smitherman [asmitherman](https://github.com/asmitherman)
 * German Razo,[german9304](https:/github.com/german9304)
 * Logan Makrle [logm](https://github.com/logm)
+* Alex Barnum [AlexBarnum](https://github.com/AlexBarnum)
