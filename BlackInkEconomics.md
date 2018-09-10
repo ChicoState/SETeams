@@ -1,2 +1,3 @@
 - Jonathan Jones, [Pactionly](https://github.com/Pactionly)
 - Ryan Saitta, [RSaitta](https://github.com/RSaitta)
+- Sean McDonald, [RSaitta](https://github.com/sjmcdonald)
