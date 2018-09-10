@@ -3,3 +3,4 @@
 * German Razo,[german9304](https:/github.com/german9304)
 * Logan Makrle [logm](https://github.com/logm)
 * Alex Barnum [AlexBarnum](https://github.com/AlexBarnum)
+* Jordan Wright [JordanWright](https://github.com/jwright800)
