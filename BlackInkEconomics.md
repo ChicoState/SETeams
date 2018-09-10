@@ -1,2 +1,3 @@
 - Jonathan Jones, [Pactionly](https://github.com/Pactionly)
 - Ryan Saitta, [RSaitta](https://github.com/RSaitta)
+- Kevin Camozzi, [Kcamozzi](https://github.com/Kcamozzi)
