@@ -1,13 +1,6 @@
 # AutoGrow
 
-[Ethan Robinson], (https://github.com/erobinson97)
-<<<<<<< HEAD
+- Ethan Robinson, [erobinson97](https://github.com/erobinson97)
 - Mikhail Zakharchanka, [MishaZakharchanka](https://github.com/mishazakharchanka)
-=======
-
-
 - John Provazek, [johnprovazek](https://github.com/johnprovazek)
-
 - Danny Yang, [dawaya](https://github.com/dawaya)
-
->>>>>>> cf62ff2a003d2f3af209162adbcbb53c905b68f7
