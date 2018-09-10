@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2018):
 
 * [ToDo-List](todo-list.md)
+* [FreshmonGo](FreshmonGo.md)
 
 ## CSCI 430 (Spring 2018):
 
