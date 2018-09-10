@@ -1,4 +1,4 @@
-# [MeriamMaximum](Private Repo)
+# [MeriamMaximum]
 
 - Doug Andres, [Doooouuuugg](https://github.com/Doooouuuugg)
 - William Zamora, [wzamora97](https://github.com/wzamora97)
