@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2018):
-
+* [3D Print](3dp.md)
 ## CSCI 430 (Spring 2018):
 
 * [OnTimeMe](OnTimeMe.md)
