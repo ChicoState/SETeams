@@ -2,8 +2,11 @@
 
 ## CSCI 430 (Fall 2018):
 
+* [Teen Job Match](teenjobmatch.md)
 * [ToDo-List](todo-list.md)
 * [BlackInkEconomics](BlackInkEconomics.md)
+* [Meriam Maximum](MeriamMaximum.md)
+* [The best PAWsible collar](the_best_PAWsible_collar.md)
 
 ## CSCI 430 (Spring 2018):
 
