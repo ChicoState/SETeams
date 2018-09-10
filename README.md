@@ -1,8 +1,13 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2018):
+* [Teen Job Match](teenjobmatch.md)
 
 * [ToDo-List](todo-list.md)
+
+* [The best PAWsible collar](the_best_PAWsible_collar.md)
+
+* [JamQ](JamQ.md)
 
 ## CSCI 430 (Spring 2018):
 
