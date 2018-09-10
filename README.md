@@ -7,6 +7,8 @@
 
 * [The best PAWsible collar](the_best_PAWsible_collar.md)
 
+* [JamQ](JamQ.md)
+
 ## CSCI 430 (Spring 2018):
 
 * [OnTimeMe](OnTimeMe.md)
