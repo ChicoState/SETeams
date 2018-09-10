@@ -5,6 +5,8 @@
 
 * [ToDo-List](todo-list.md)
 
+* [The best PAWsible collar](the_best_PAWsible_collar.md)
+
 ## CSCI 430 (Spring 2018):
 
 * [OnTimeMe](OnTimeMe.md)
