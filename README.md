@@ -2,6 +2,14 @@
 
 ## CSCI 430 (Fall 2018):
 * [3D Print](3dp.md)
+* [The Rek](the-rek.md)
+* [Teen Job Match](teenjobmatch.md)
+
+* [ToDo-List](todo-list.md)
+* [Meriam Maximum](MeriamMaximum.md)
+
+* [The best PAWsible collar](the_best_PAWsible_collar.md)
+
 ## CSCI 430 (Spring 2018):
 
 * [OnTimeMe](OnTimeMe.md)
