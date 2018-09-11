@@ -2,12 +2,16 @@
 
 ## CSCI 430 (Fall 2018):
 
+* [3D Print](3dp.md)
 * [The Rek](the-rek.md)
 * [Teen Job Match](teenjobmatch.md)
 * [ToDo-List](todo-list.md)
 * [Black Ink Economics](BlackInkEconomics.md)
 * [Meriam Maximum](MeriamMaximum.md)
 * [The best PAWsible collar](the_best_PAWsible_collar.md)
+* [AutoGrow](autogrow.md)
+* [JamQ](JamQ.md)
+* [FreshmonGo](FreshmonGo.md)
 
 ## CSCI 430 (Spring 2018):
 
