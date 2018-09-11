@@ -1,8 +1,17 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2018):
+* [The Rek](the-rek.md)
+* [Teen Job Match](teenjobmatch.md)
 
 * [ToDo-List](todo-list.md)
+
+
+
+* [Meriam Maximum](MeriamMaximum.md)
+
+* [The best PAWsible collar](the_best_PAWsible_collar.md)
+
 * [FreshmonGo](FreshmonGo.md)
 
 ## CSCI 430 (Spring 2018):
