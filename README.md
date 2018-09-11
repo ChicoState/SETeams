@@ -1,6 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2018):
+* [3D Print](3dp.md)
 * [The Rek](the-rek.md)
 * [Teen Job Match](teenjobmatch.md)
 
