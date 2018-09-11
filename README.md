@@ -2,9 +2,10 @@
 
 ## CSCI 430 (Fall 2018):
 
+* [The Rek](the-rek.md)
 * [Teen Job Match](teenjobmatch.md)
 * [ToDo-List](todo-list.md)
-* [BlackInkEconomics](BlackInkEconomics.md)
+* [Black Ink Economics](BlackInkEconomics.md)
 * [Meriam Maximum](MeriamMaximum.md)
 * [The best PAWsible collar](the_best_PAWsible_collar.md)
 
