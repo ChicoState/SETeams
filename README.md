@@ -8,6 +8,7 @@
 * [Meriam Maximum](MeriamMaximum.md)
 
 * [The best PAWsible collar](the_best_PAWsible_collar.md)
+* [AutoGrow](autogrow.md)
 
 * [JamQ](JamQ.md)
 
