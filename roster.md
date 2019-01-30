@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+*[Tyler Barnes](https://github.com/trbarnes) 
