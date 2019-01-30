@@ -3,6 +3,7 @@
 ## Instructor
 
 [Kevin Buffardi](https://github.com/kbuffardi)
+[Michael Plemmons](https://github.com/MPlemmons)
 
 ## Students
 
