@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Miguel De La Torre](https://github.com/mdelatorre14/SETeams) 
