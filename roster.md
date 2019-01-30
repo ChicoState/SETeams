@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [James Bautista](https://github.com/JamesBautista) 
