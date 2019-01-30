@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* Sean McDonald (https://github.com/seanjmcdonald/SETeams) 
