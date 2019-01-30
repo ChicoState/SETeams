@@ -6,4 +6,4 @@
 
 ## Students
 
-* 
+* [Maxwell Michelon](https://github.com/mmichelon/)
