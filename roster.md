@@ -6,4 +6,4 @@
 
 ## Students
 
-*[Maira Iqbal] (https://github.com/1miqbal1) 
+* [Maira Iqbal] (https://github.com/1miqbal1) 
