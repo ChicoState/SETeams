@@ -1,2 +1,2 @@
 # Study Together
-* [James Bautista] (https://github.com/JamesBautista)
+* [James Bautista](https://github.com/JamesBautista)
