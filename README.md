@@ -1,8 +1,5 @@
 # Software Engineering
 
-## CSCI 430 (Spring 2019):
-* [WorkoutPlanner](WorkoutPlanner.md)
-
 ## CSCI 430 (Fall 2018):
 
 * [3D Print](3dp.md)
