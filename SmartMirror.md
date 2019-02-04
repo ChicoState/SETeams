@@ -6,3 +6,4 @@
 
 ## Students
 * [Alireza Moradi] (https://github.com/moradia100)
+* [Javier Pardo] (https://guthub.com/JaviPardox)
