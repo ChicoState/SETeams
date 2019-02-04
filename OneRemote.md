@@ -1,3 +1,3 @@
 OneRemote
 
-[Thomas Staaden](https://github.com/TStaaden)
+Thomas Staaden, [TStaaden](https://github.com/TStaaden)
