@@ -7,3 +7,4 @@
 ## Students
 * [Alireza Moradi] (https://github.com/moradia100)
 * [Andres Contreras] (https://github.com/andrecon)
+* [Aaron Pfister] (https://github.com/akpfister)
