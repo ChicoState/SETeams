@@ -1,6 +1,6 @@
 # Software Engineering
 
-## CSCI 430 (Spring 2018):
+## CSCI 430 (Spring 2019):
 * [WorkoutPlanner](WorkoutPlanner.md)
 
 ## CSCI 430 (Fall 2018):
