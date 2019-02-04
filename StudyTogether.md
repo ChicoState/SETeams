@@ -1,1 +1,1 @@
-[Changsoo Jung](cjung5)
+[Changsoo Jung] -cjung5
