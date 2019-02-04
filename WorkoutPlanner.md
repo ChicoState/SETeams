@@ -2,4 +2,4 @@
 * [Eisley Adoremos](https://github.com/eisleyadore/)
 * [Ahmad Nikmanesh](anikmanesh@mail.csuchico.edu)
 * [Shan Khinda](https://github.com/skhinda)
-* [Alex Baker] (https://github.com/abaker-skudlarek)
+* [Alex Baker](https://github.com/abaker-skudlarek)
