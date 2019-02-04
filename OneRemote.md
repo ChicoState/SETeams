@@ -1,3 +1,3 @@
-#OneRemote
+# OneRemote
 
-*Connor Kurland [ckurland](https://github.com/ckurland)
+* Connor Kurland [ckurland](https://github.com/ckurland)
