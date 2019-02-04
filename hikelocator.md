@@ -1,1 +1,4 @@
-Charles Buckley cbuckley10
+
+* [Maxwell Michelon] - (https://github.com/mmichelon)
+* [Michael Plemmons] (https://github.com/MPlemmons)
+* [Charles Buckley] - (https://github.com/cbuckley10)
