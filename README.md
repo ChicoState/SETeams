@@ -1,4 +1,7 @@
 # Software Engineering
+##CSCI 430 (Fall 2019):
+
+* [Smart Clock](smartClock.md)
 
 ## CSCI 430 (Fall 2018):
 
