@@ -1,4 +1,4 @@
-#UBallot
+# UBallot
 
 * Sean McDonald: [sjmcdonald](https://github.com/sjmcdonald)
 * Don Le: [DonLeCINS](https://github.com/DonLeCINS)
