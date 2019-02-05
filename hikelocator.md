@@ -1,5 +1,7 @@
-* [Maxwell Michelon] [mmichelon](https://github.com/mmichelon)
-* [Michael Plemmons] [MPlemmons](https://github.com/MPlemmons)
-* [Charles Buckley] [cbuckley10](https://github.com/cbuckley10)
-* [Lindsay Wommack] [lwommack](https://github.com/lwommack)
+# hikeLocator
+
+* [Maxwell Michelon] (https://github.com/mmichelon)
+* [Michael Plemmons] (https://github.com/MPlemmons)
+* [Charles Buckley] (https://github.com/cbuckley10)
+* [Lindsay Wommack] (https://github.com/lwommack)
 
