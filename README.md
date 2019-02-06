@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2019):
 
 * [UBallot](UBallot.md)
+* [OneRemote](OneRemote.md)
 
 ## CSCI 430 (Fall 2018):
 
