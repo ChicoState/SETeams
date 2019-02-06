@@ -8,7 +8,7 @@
 * [GradeBook](Gradebook.md)
 * [SmartMirror](SmartMirror.md)
 * [WorkoutPlanner](WorkoutPlanner.md)
-
+* [Study Together](StudyTogether.md)
 * [SmartClock](smartClock.md)
 
 ## CSCI 430 (Fall 2018):
