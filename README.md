@@ -4,6 +4,7 @@
 
 * [OneRemote](OneRemote.md)
 * [GradeBook](Gradebook.md)
+* [SmartMirror](SmartMirror.md)
 
 ## CSCI 430 (Fall 2018):
 
