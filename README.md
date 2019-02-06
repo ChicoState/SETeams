@@ -5,6 +5,7 @@
 * [UBallot](UBallot.md)
 * [OneRemote](OneRemote.md)
 * [SmartMirror](SmartMirror.md)
+* [KitchenAssist](KitchenAssist.md)
 
 ## CSCI 430 (Fall 2018):
 
