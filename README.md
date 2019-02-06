@@ -9,7 +9,11 @@
 =======
 * [GradeBook](Gradebook.md)
 * [SmartMirror](SmartMirror.md)
+<<<<<<< HEAD
 >>>>>>> d7f4298ba9d99cfd47e300c84b9b2cb7f4033c2b
+=======
+* [WorkoutPlanner](WorkoutPlanner.md)
+>>>>>>> 36d60518432e8fdb38b84dafc78f8aacb6aa8bc3
 
 ## CSCI 430 (Fall 2018):
 
