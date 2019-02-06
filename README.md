@@ -8,6 +8,7 @@
 * [OneRemote](OneRemote.md)
 * [GradeBook](Gradebook.md)
 * [SmartMirror](SmartMirror.md)
+* [WorkoutPlanner](WorkoutPlanner.md)
 
 ## CSCI 430 (Fall 2018):
 
