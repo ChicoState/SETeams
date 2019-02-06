@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2019):
 
 * [UBallot](UBallot.md)
+* [hikeLocator](hikelocator.md)
 * [OneRemote](OneRemote.md)
 * [RideShareBargain](RideShareBargain.md)
 * [GradeBook](Gradebook.md)
