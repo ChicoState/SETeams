@@ -2,8 +2,14 @@
 
 ## CSCI 430 (Spring 2019):
 
+* [UBallot](UBallot.md)
 * [OneRemote](OneRemote.md)
+<<<<<<< HEAD
 * [RideShareBargain](RideShareBargain.md)
+=======
+* [GradeBook](Gradebook.md)
+* [SmartMirror](SmartMirror.md)
+>>>>>>> d7f4298ba9d99cfd47e300c84b9b2cb7f4033c2b
 
 ## CSCI 430 (Fall 2018):
 
