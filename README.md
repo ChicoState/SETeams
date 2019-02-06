@@ -2,6 +2,10 @@
 ## CSCI 430 (Spring 2019):
 * [hikeLocator](hikelocator.md)
 
+## CSCI 430 (Spring 2019):
+
+* [OneRemote](OneRemote.md)
+
 ## CSCI 430 (Fall 2018):
 
 * [3D Print](3dp.md)
