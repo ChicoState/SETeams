@@ -8,8 +8,8 @@
 * [RideShareBargain](RideShareBargain.md)
 * [GradeBook](Gradebook.md)
 * [SmartMirror](SmartMirror.md)
+* [KitchenAssist](KitchenAssist.md)
 * [WorkoutPlanner](WorkoutPlanner.md)
-
 * [SmartClock](smartClock.md)
 
 ## CSCI 430 (Fall 2018):
