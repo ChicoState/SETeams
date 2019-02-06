@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2019):
 
 * [OneRemote](OneRemote.md)
+* [RideShareBargain](RideShareBargain.md)
 
 ## CSCI 430 (Fall 2018):
 
