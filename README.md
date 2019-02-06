@@ -5,6 +5,7 @@
 * [UBallot](UBallot.md)
 * [hikeLocator](hikelocator.md)
 * [OneRemote](OneRemote.md)
+* [RideShareBargain](RideShareBargain.md)
 * [GradeBook](Gradebook.md)
 * [SmartMirror](SmartMirror.md)
 * [WorkoutPlanner](WorkoutPlanner.md)
