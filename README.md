@@ -9,6 +9,8 @@
 * [SmartMirror](SmartMirror.md)
 * [WorkoutPlanner](WorkoutPlanner.md)
 
+* [SmartClock](smartClock.md)
+
 ## CSCI 430 (Fall 2018):
 
 * [3D Print](3dp.md)
