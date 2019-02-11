@@ -2,16 +2,16 @@
 
 ## CSCI 430 (Spring 2019):
 
-* [UBallot](UBallot.md)
+* [GradeBook](Gradebook.md)
 * [hikeLocator](hikelocator.md)
+* [KitchenAssist](KitchenAssist.md)
 * [OneRemote](OneRemote.md)
 * [RideShareBargain](RideShareBargain.md)
-* [GradeBook](Gradebook.md)
-* [SmartMirror](SmartMirror.md)
-* [KitchenAssist](KitchenAssist.md)
-* [WorkoutPlanner](WorkoutPlanner.md)
-* [Study Together](StudyTogether.md)
 * [SmartClock](smartClock.md)
+* [SmartMirror](SmartMirror.md)
+* [Study Together](StudyTogether.md)
+* [UBallot](UBallot.md)
+* [WorkoutPlanner](WorkoutPlanner.md)
 
 ## CSCI 430 (Fall 2018):
 
