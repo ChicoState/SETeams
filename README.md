@@ -10,6 +10,7 @@
 * [SmartMirror](SmartMirror.md)
 * [KitchenAssist](KitchenAssist.md)
 * [WorkoutPlanner](WorkoutPlanner.md)
+* [Study Together](StudyTogether.md)
 * [SmartClock](smartClock.md)
 
 ## CSCI 430 (Fall 2018):
