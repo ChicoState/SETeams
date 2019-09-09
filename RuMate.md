@@ -1,5 +1,5 @@
 # RuMate
-
+## Team Members
 * [Henry Graves](https://github.com/HenryGraves)
 <<<<<<< HEAD
 * [Orrin Gauper]((https://github.com/ogauper)
