@@ -1,5 +1,9 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2019):
+
+* [RuMate](RuMate.md)
+
 ## CSCI 430 (Spring 2019):
 
 * [GradeBook](Gradebook.md)
