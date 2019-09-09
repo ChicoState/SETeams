@@ -1,2 +1,3 @@
-#SafeAlert
-*[Mick Shimada](https://github.com/mshimada2)
+# SafeAlert
+
+* [Mick Shimada](https://github.com/mshimada2)
