@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2020):
-* [SafeAlert] (safealert.md)
+* [SafeAlert](safealert.md)
 
 
 ## CSCI 430 (Spring 2019):
