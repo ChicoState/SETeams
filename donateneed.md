@@ -1,5 +1,6 @@
 # Donate Need
-## Team Members
+## Team Member:
+
 * [Austin Meyer](https://github.com/Niyy)
 * [Madeline Hoshko](https://github.com/mhoshko)
 * [Brian Harris](https://github.com/BrianTHarris)
