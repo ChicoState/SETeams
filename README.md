@@ -3,7 +3,8 @@
 ## CSCI 430 (Fall 2019):
 
 * [EasyGrocery](easygrocery.md)
-* [custom](custom.md)
+* [Custom](custom.md)
+* [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 
 
