@@ -1,11 +1,15 @@
 # Software Engineering
 
-## CSCI 430 (Fall 2019):
+## CSCI 430 (Fall 2020):
 
+* [Apetur](apetur.md)
+* [Custom](custom.md)
+* [DankBank](DankBank.md)
 * [DonateNeed](donateneed.md)
 * [EasyGrocery](easygrocery.md)
+* [HotSpots](HotSpots.md)
+* [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
-
 
 ## CSCI 430 (Spring 2019):
 
@@ -54,4 +58,3 @@
 * [Smart Nap](smartnap.md)
 * [Teen Job Match](teenjobmatch.md)
 * [Voltanium](voltanium.md)
->>>>>>> 05b9b066609980bd419048359ac06576982b1dbb
