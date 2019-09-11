@@ -1,11 +1,11 @@
 # Software Engineering
 
-<<<<<<< HEAD
 ## CSCI 430 (Fall 2019):
+
+* [EasyGrocery](easygrocery.md)
 * [custom](custom.md)
 * [SafeAlert](safealert.md)
 
->>>>>>> 86bd944234c45272ad3a0c51476129dae8998da2
 
 ## CSCI 430 (Spring 2019):
 
