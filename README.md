@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Fall 2020):
 * [Apetur](apetur.md)
+* [EasyGrocery](easygrocery.md)
 * [SafeAlert](safealert.md)
 
 
