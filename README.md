@@ -1,5 +1,6 @@
 # Software Engineering
-##CSCI 430 (Spring 2019):
+
+##CSCI 430 (Fall 2019):
 
 * [DonateNeed](donateneed.md)
 
