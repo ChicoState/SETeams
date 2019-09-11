@@ -1,8 +1,10 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2019):
-* [SafeAlert](safealert.md)
+
+* [EasyGrocery](easygrocery.md)
 * [HotSpots](HotSpots.md)
+* [SafeAlert](safealert.md)
 
 ## CSCI 430 (Spring 2019):
 
