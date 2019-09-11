@@ -1,13 +1,13 @@
 # Software Engineering
 
-## CSCI 430 (Fall 2019):
-
+## CSCI 430 (Fall 2020):
+* [Apetur](apetur.md)
 * [Custom](custom.md)
 * [EasyGrocery](easygrocery.md)
+* [HotSpots](HotSpots.md)
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 * [CareMap](CareMap.md)
-
 
 
 ## CSCI 430 (Spring 2019):
