@@ -1,7 +1,8 @@
 # Software Engineering
 
-## CSCI 430 (Fall 2019):
 
+## CSCI 430 (Fall 2019):
+* [SafeAlert](safealert.md)
 * [HotSpots](HotSpots.md)
 
 ## CSCI 430 (Spring 2019):
