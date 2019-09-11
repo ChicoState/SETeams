@@ -4,9 +4,9 @@
 * [Apetur](apetur.md)
 * [Custom](custom.md)
 * [EasyGrocery](easygrocery.md)
+* [HotSpots](HotSpots.md)
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
-
 
 ## CSCI 430 (Spring 2019):
 
