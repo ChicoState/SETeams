@@ -12,6 +12,8 @@
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 * [SceneAlert](SceneAlert.md)
+* [SupplyMee](supplymee.md)
+
 
 ## CSCI 430 (Spring 2019):
 
