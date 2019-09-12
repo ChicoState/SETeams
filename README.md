@@ -1,6 +1,6 @@
 # Software Engineering
 
-## CSCI 430 (Fall 2020):
+## CSCI 430 (Fall 2019):
 
 * [Apetur](apetur.md)
 * [Custom](custom.md)
