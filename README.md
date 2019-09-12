@@ -2,6 +2,14 @@
 
 ## CSCI 430 (Fall 2019):
 
+* [Apetur](apetur.md)
+* [CareMap](CareMap.md)
+* [Custom](custom.md)
+* [DankBank](DankBank.md)
+* [EasyGrocery](easygrocery.md)
+* [HotSpots](HotSpots.md)
+* [RuMate](RuMate.md)
+* [SafeAlert](safealert.md)
 * [SceneAlert](SceneAlert.md)
 
 ## CSCI 430 (Spring 2019):
