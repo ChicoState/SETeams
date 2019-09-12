@@ -10,7 +10,7 @@
 * [HotSpots](HotSpots.md)
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
-
+* [SceneAlert](SceneAlert.md)
 
 ## CSCI 430 (Spring 2019):
 
