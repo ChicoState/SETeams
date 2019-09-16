@@ -6,10 +6,13 @@
 * [CareMap](CareMap.md)
 * [Custom](custom.md)
 * [DankBank](DankBank.md)
+* [DonateNeed](donateneed.md)
 * [EasyGrocery](easygrocery.md)
 * [HotSpots](HotSpots.md)
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
+* [SceneAlert](SceneAlert.md)
+* [SupplyMee](supplymee.md)
 
 
 ## CSCI 430 (Spring 2019):
