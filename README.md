@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Spring 2020):
 
+* [BSafe](BSafe.md)
 * [BookGrab](BookGrab.md)
 * [Diet/Fitness App](DietApp.md)
 * [DiscountAlchohol](DiscountAlcohol.md)
