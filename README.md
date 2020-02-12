@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2020):
 
 * [BookGrab](BookGrab.md)
+* [Diet/Fitness App](DietApp.md)
 * [DiscountAlchohol](DiscountAlcohol.md)
 * [FamNet](FamNet.md)
 * [Grocery Generator](GroceryGenerator.md)
@@ -12,6 +13,9 @@
 * [Study Group Finder App](StudyGroupFinderApp.md)
 * [Sustainability Points](SustainabilityPoints.md)
 * [WildcatMobileOrder](wildcatMO.md)
+* [Bike Lock](BikeLock.md)
+* [Assistop](assistop.md)
+* [OnDemandIT](ODIT.md)
 
 
 ## CSCI 430 (Fall 2019):
