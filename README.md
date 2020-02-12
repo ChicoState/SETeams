@@ -2,8 +2,8 @@
 
 ## CSCI 431 (Spring 2020):
 
-*
-*
+* 
+* [Music Hack](MusicHack.md)
 *
 *
 *
