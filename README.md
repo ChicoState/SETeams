@@ -11,6 +11,8 @@
 * [Study Group Finder App](StudyGroupFinderApp.md)
 * [Sustainability Points](SustainabilityPoints.md)
 * [WildcatMobileOrder](wildcatMO.md)
+* [Bike Lock](BikeLock.md)
+* [Assistop](assistop.md)
 * [OnDemandIT](ODIT.md)
 
 
