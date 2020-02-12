@@ -17,6 +17,7 @@
 * [Bike Lock](BikeLock.md)
 * [Assistop](assistop.md)
 * [OnDemandIT](ODIT.md)
+* [SmartCCTV](SmartCCTV.md)
 
 
 ## CSCI 430 (Fall 2019):
