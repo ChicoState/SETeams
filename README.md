@@ -2,22 +2,31 @@
 
 ## CSCI 431 (Spring 2020):
 
+* 
+* [Music Hack](MusicHack.md)
+* [Parkcore](Parkcore.md)
+*
+*
+*[DiscountAlchohol](DiscountAlcohol.md)
+*
+*
+[FamNet](FamNet.md)
 *
 *
 *
 *
+* [Grocery Generator](GroceryGenerator.md)
 *
-*
-*
-*
-*
-*
+<<<<<<< HEAD
 *
 *
 * 
 *
 *
 *
+=======
+* [WildcatMobileOrder](wildcatMO.md)
+>>>>>>> b75be76959e6a36904a64a25ce5b5b593d2af358
 
 ## CSCI 430 (Fall 2019):
 
