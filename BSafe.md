@@ -1,3 +1,5 @@
+Team name: BSafe
+
 Developers:
 Christopher Allison, callison98
 Samantha Mathistad, ssmathistad
