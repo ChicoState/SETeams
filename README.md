@@ -7,7 +7,7 @@
 *
 *
 *
-*
+*[DiscountAlchohol](DiscountAlcohol.md)
 *
 *
 *
