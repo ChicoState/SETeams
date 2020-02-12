@@ -1,5 +1,24 @@
 # Software Engineering
 
+## CSCI 431 (Sprint 2020):
+
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+*
+
 ## CSCI 430 (Fall 2019):
 
 * [Apetur](apetur.md)
