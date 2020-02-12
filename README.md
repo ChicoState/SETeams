@@ -4,9 +4,9 @@
 
 * 
 * [Music Hack](MusicHack.md)
+* [Study Group Finder App](StudyGroupFinderApp.md)
 *
-*
-*
+* [LiquorMeTimbers](LiquorMeTimbers.md)
 *[DiscountAlchohol](DiscountAlcohol.md)
 *
 *
