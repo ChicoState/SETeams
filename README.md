@@ -4,33 +4,25 @@
 
 * 
 * [Music Hack](MusicHack.md)
-<<<<<<< HEAD
-* [Parkcore](Parkcore.md)
-=======
 * [Study Group Finder App](StudyGroupFinderApp.md)
->>>>>>> 1202bea51b3ac7975a53e62fc993cf5df62f8c51
-* [Parkcore](Parkcore.md)
 * [LiquorMeTimbers](LiquorMeTimbers.md)
 *[DiscountAlchohol](DiscountAlcohol.md)
 *
 *
 [FamNet](FamNet.md)
-*
+* [Parkcore](Parkcore.md)
 *[Sustainability Points](SustainabilityPoints.md)
 *
 *
 * [Grocery Generator](GroceryGenerator.md)
 *
-<<<<<<< HEAD
 *
 *
 * 
 *
 *
 *
-=======
 * [WildcatMobileOrder](wildcatMO.md)
->>>>>>> b75be76959e6a36904a64a25ce5b5b593d2af358
 
 ## CSCI 430 (Fall 2019):
 
