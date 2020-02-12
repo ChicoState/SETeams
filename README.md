@@ -1,6 +1,6 @@
 # Software Engineering
 
-## CSCI 431 (Spring 2020):
+## CSCI 430 (Spring 2020):
 
 * 
 * [Music Hack](MusicHack.md)
@@ -10,13 +10,13 @@
 * [Study Group Finder App](StudyGroupFinderApp.md)
 >>>>>>> 1202bea51b3ac7975a53e62fc993cf5df62f8c51
 *
-*
+* [LiquorMeTimbers](LiquorMeTimbers.md)
 *[DiscountAlchohol](DiscountAlcohol.md)
 *
 *
 [FamNet](FamNet.md)
 *
-*
+*[Sustainability Points](SustainabilityPoints.md)
 *
 *
 * [Grocery Generator](GroceryGenerator.md)
