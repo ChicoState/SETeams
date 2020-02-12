@@ -4,7 +4,7 @@
 
 * 
 * [Music Hack](MusicHack.md)
-*
+* [Study Group Finder App](StudyGroupFinderApp.md)
 *
 *
 *[DiscountAlchohol](DiscountAlcohol.md)
