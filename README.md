@@ -2,12 +2,12 @@
 
 ## CSCI 430 (Spring 2020):
 
+*
+*
+*
+*
+*
 *[Sustainability Points](SustainabilityPoints.md)
-*
-*
-*
-*
-*
 *
 *
 *
