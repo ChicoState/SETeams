@@ -12,6 +12,7 @@
 * [Sustainability Points](SustainabilityPoints.md)
 * [WildcatMobileOrder](wildcatMO.md)
 * [Bike Lock](BikeLock.md)
+* [Assistop](assistop.md)
 
 
 ## CSCI 430 (Fall 2019):
