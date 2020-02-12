@@ -2,27 +2,16 @@
 
 ## CSCI 430 (Spring 2020):
 
-* 
-* [Music Hack](MusicHack.md)
-* [Study Group Finder App](StudyGroupFinderApp.md)
-* [LiquorMeTimbers](LiquorMeTimbers.md)
-*[DiscountAlchohol](DiscountAlcohol.md)
-*
-*
-[FamNet](FamNet.md)
-* [Parkcore](Parkcore.md)
-*[Sustainability Points](SustainabilityPoints.md)
-*
-*
+* [DiscountAlchohol](DiscountAlcohol.md)
+* [FamNet](FamNet.md)
 * [Grocery Generator](GroceryGenerator.md)
-*
-*
-*
-* 
-*
-*
-*
+* [LiquorMeTimbers](LiquorMeTimbers.md)
+* [Music Hack](MusicHack.md)
+* [Parkcore](Parkcore.md)
+* [Study Group Finder App](StudyGroupFinderApp.md)
+* [Sustainability Points](SustainabilityPoints.md)
 * [WildcatMobileOrder](wildcatMO.md)
+
 
 ## CSCI 430 (Fall 2019):
 
