@@ -1,4 +1,4 @@
-# Team 3D Print
+# Parkcore
 
 Team Members:
   * [Jonathan Cheon](https://github.com/jcheon)
