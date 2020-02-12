@@ -2,22 +2,22 @@
 
 ## CSCI 431 (Spring 2020):
 
+* 
+* [Music Hack](MusicHack.md)
 *
 *
 *
 *
 *
 *
+[FamNet](FamNet.md)
 *
 *
 *
 *
+* [Grocery Generator](GroceryGenerator.md)
 *
-*
-*
-*
-*
-*
+* [WildcatMobileOrder](wildcatMO.md)
 
 ## CSCI 430 (Fall 2019):
 
