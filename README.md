@@ -1,6 +1,6 @@
 # Software Engineering
 
-## CSCI 431 (Sprint 2020):
+## CSCI 431 (Spring 2020):
 
 *
 *
