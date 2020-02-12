@@ -11,6 +11,7 @@
 * [Study Group Finder App](StudyGroupFinderApp.md)
 * [Sustainability Points](SustainabilityPoints.md)
 * [WildcatMobileOrder](wildcatMO.md)
+* [OnDemandIT](ODIT.md)
 
 
 ## CSCI 430 (Fall 2019):
