@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Spring 2020):
 
+* [BSafe](BSafe.md)
 * [DiscountAlchohol](DiscountAlcohol.md)
 * [FamNet](FamNet.md)
 * [Grocery Generator](GroceryGenerator.md)
