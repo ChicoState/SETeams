@@ -1,8 +1,8 @@
 # Software Engineering
 
-## CSCI 431 (Spring 2020):
+## CSCI 430 (Spring 2020):
 
-*
+*[Sustainability Points](SustainabilityPoints.md)
 *
 *
 *
