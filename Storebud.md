@@ -1,1 +1,1 @@
-- Tanya Bonilla, (tanyabonilla)[www.github.com/tanyabonilla]
+* Tanya Bonilla, (tanyabonilla)[https://www.github.com/tanyabonilla]
