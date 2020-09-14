@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2020):
 
 * [Life's Library](LifesLibrary.md)
+* [Playbuddy](Playbuddy.md)
 
 ## CSCI 430 (Spring 2020):
 
