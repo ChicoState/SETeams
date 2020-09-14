@@ -1,6 +1,6 @@
 # Life's Library
 
-## Students
+## Developers
 
 * [Brian Wells](https://github.com/briswells)
 * [Warren Rose II](https://github.com/treesquirrel84)
