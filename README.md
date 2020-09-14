@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2020):
-
+* [CSU Map](CSUMap.md)
 * [Life's Library](LifesLibrary.md)
 
 ## CSCI 430 (Spring 2020):
