@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2020):
 
 * [Blx Music Maker](BlxMusicMaker.md)
+* [CSU Map](CSUMap.md)
 * [Gruvest](Gruvest.md)
 * [Happy Houseplants](Happy_Houseplants.md)
 * [Life's Library](LifesLibrary.md)
