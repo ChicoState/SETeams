@@ -7,6 +7,7 @@
 * [Life's Library](LifesLibrary.md)
 * [MoneyPool](MoneyPool.md)
 * [Pedal Maps](PedalMaps.md)
+* [Playbuddy](Playbuddy.md)
 * [Portfolio](portfolio.md)
 * [Revercipe](Revercipe.md)
 * [Storebud](Storebud.md)
