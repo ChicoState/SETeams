@@ -5,6 +5,7 @@
 * [Blx Music Maker](BlxMusicMaker.md)
 * [Gruvest](Gruvest.md)
 * [Life's Library](LifesLibrary.md)
+* [MoneyPool](MoneyPool.md)
 * [Pedal Maps](PedalMaps.md)
 * [Portfolio](portfolio.md)
 * [Revercipe](Revercipe.md)
