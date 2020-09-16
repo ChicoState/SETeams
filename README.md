@@ -2,8 +2,14 @@
 
 ## CSCI 430 (Fall 2020):
 
-* [MoneyPool](MoneyPool.md)
+* [Blx Music Maker](BlxMusicMaker.md)
+* [Gruvest](Gruvest.md)
 * [Life's Library](LifesLibrary.md)
+* [MoneyPool](MoneyPool.md)
+* [Pedal Maps](PedalMaps.md)
+* [Portfolio](portfolio.md)
+* [Revercipe](Revercipe.md)
+* [Storebud](Storebud.md)
 
 ## CSCI 430 (Spring 2020):
 
