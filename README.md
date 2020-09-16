@@ -2,9 +2,10 @@
 
 ## CSCI 430 (Fall 2020):
 
-
-* [Revercipe](Revercipe.md)
 * [Life's Library](LifesLibrary.md)
+* [Portfolio](portfolio.md)
+* [Revercipe](Revercipe.md)
+* [Storebud](Storebud.md)
 
 
 ## CSCI 430 (Spring 2020):
