@@ -4,6 +4,7 @@
 
 * [Blx Music Maker](BlxMusicMaker.md)
 * [Gruvest](Gruvest.md)
+* [Happy Houseplants](Happy_Houseplants.md)
 * [Life's Library](LifesLibrary.md)
 * [MoneyPool](MoneyPool.md)
 * [Pedal Maps](PedalMaps.md)
