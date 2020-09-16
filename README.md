@@ -16,6 +16,7 @@
 * [Portfolio](portfolio.md)
 * [Revercipe](Revercipe.md)
 * [Storebud](Storebud.md)
+* [What to Watch](whatToWatch.md)
 
 ## CSCI 430 (Spring 2020):
 
