@@ -6,6 +6,7 @@
 * [Gruvest](Gruvest.md)
 * [Happy Houseplants](Happy_Houseplants.md)
 * [Life's Library](LifesLibrary.md)
+* [TheLivingRoom](TheLivingRoom.md)
 * [MoneyPool](MoneyPool.md)
 * [Pedal Maps](PedalMaps.md)
 * [Playbuddy](Playbuddy.md)
