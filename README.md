@@ -4,6 +4,7 @@
 
 * [Portfolio](portfolio.md)
 * [Life's Library](LifesLibrary.md)
+* [Storebud](Storebud.md)
 
 ## CSCI 430 (Spring 2020):
 
