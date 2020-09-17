@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2020):
 
 * [Blx Music Maker](BlxMusicMaker.md)
+* [Booked](Booked.md)
 * [CSU Map](CSUMap.md)
 * [Fresh Start](FreshStart.md)
 * [GroceryPals](GroceryPals.md)
