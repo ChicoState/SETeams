@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2022):
 
 * [Wild Life](WildLife.md)
+* [Plant Social](PlantSocial.md)
 
 ## CSCI 430 (Fall 2020):
 
