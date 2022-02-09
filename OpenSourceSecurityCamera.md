@@ -1,0 +1,15 @@
+# Open Source Security Camera
+
+## Team Members
+---
+(Meher Lippmann)[www.github.com/melippmann]
+(Kevin Douglass[www.github.com/kevdouglass] 
+(Cameron Watts)[www.github.com/Zalymo]
+(Avery Pound)[www.github.com/DJ-IRL]
+(Connor Ganaway)[www.github.com/ConnorGanaway]
+
+
+(Nicholas Hibbard)[www.github.com/]
+(John Koistinen)[www.github.com/]
+(Sean O'Leary)[www.github.com/]
+
