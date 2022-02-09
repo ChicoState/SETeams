@@ -7,9 +7,3 @@
 (Cameron Watts)[www.github.com/Zalymo]
 (Avery Pound)[www.github.com/DJ-IRL]
 (Connor Ganaway)[www.github.com/ConnorGanaway]
-
-
-(Nicholas Hibbard)[www.github.com/]
-(John Koistinen)[www.github.com/]
-(Sean O'Leary)[www.github.com/]
-
