@@ -1,7 +1,8 @@
 # Software Engineering
 
-## CSCI 430 (Spring 2022):
+## CSCI 430 (Sprint 2022):
 
+* [Open Source Security Camera](OpenSourceSecurityCamera.md)
 * [Plant Social](PlantSocial.md)
 
 ## CSCI 430 (Fall 2020):
