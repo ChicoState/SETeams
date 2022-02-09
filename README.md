@@ -4,6 +4,7 @@
 
 * [Open Source Security Camera](OpenSourceSecurityCamera.md)
 * [Plant Social](PlantSocial.md)
+* [WhatsCooking](WhatsCookin.md)
 
 ## CSCI 430 (Fall 2020):
 
