@@ -1,9 +1,16 @@
 # Software Engineering
 
+
 ## CSCI 430 (Spring 2022):
 
+
 * [BuddyUp](BuddyUp.md)
+* [CS Tutor](csTutor.md)
+* [Open Source Security Camera](OpenSourceSecurityCamera.md)
+* [Pingme](pingme.md)
 * [Plant Social](PlantSocial.md)
+* [Sound Scape](SoundScape.md)
+
 
 ## CSCI 430 (Fall 2020):
 
