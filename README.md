@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Sprint 2022):
 
+* [CS Tutor](csTutor.md)
 * [Open Source Security Camera](OpenSourceSecurityCamera.md)
 * [Plant Social](PlantSocial.md)
 * [Sound Scape](SoundScape.md)
