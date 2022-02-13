@@ -5,6 +5,7 @@
 
 * [BuddyUp](BuddyUp.md)
 * [CS Tutor](csTutor.md)
+* [Looking-For-Game](Looking-For-Game.md)
 * [Open Source Security Camera](OpenSourceSecurityCamera.md)
 * [Pingme](pingme.md)
 * [Plant Social](PlantSocial.md)
