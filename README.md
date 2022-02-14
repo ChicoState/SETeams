@@ -7,7 +7,7 @@
 * [CS Tutor](csTutor.md)
 * [Looking-For-Game](Looking-For-Game.md)
 * [Open Source Security Camera](OpenSourceSecurityCamera.md)
-* [Pingme](pingme.md)
+* [Ping Me](pingme.md)
 * [Plant Social](PlantSocial.md)
 * [Sound Scape](SoundScape.md)
 * [SPLIT](SPLIT.md)
