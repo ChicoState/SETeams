@@ -12,6 +12,7 @@
 * [Sound Scape](SoundScape.md)
 * [SPLIT](SPLIT.md)
 * [Wild Life](WildLife.md)
+* [HappyHourFinder](HappyHourFinder.md)
 
 
 ## CSCI 430 (Fall 2020):
