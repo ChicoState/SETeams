@@ -12,7 +12,6 @@
 * [Student Scheduler](studentscheduler.md)
 * [Style Guide](styleguide.md)
 * [Team Builder](teambuilder.md)
-* [Song Snippet](Song_Snippet.md)
 
 ## CSCI 430 (Spring 2022):
 
