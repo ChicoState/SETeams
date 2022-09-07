@@ -1,5 +1,17 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2022):
+
+* [Bracket Maker](bracketmaker.md)
+* [Fridge](fridge.md)
+* [MyPantry](mypantry.md)
+* [ReaderHub](readerhub.md)
+* [Road Tripper](roadtripper.md)
+* [Sleep Well](sleepwell.md)
+* [Song Snippet](songsnippet.md)
+* [Student Scheduler](studentscheduler.md)
+* [Style Guide](styleguide.md)
+* [Team Builder](teambuilder.md)
 
 ## CSCI 430 (Spring 2022):
 
