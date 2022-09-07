@@ -1,6 +1,4 @@
-this is a test
-
-# Wildcat Mobile Order README
+# Team Builder README
 
 ## Developers:
 - Densell Peters III, densellp
