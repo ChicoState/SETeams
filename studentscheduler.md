@@ -1,0 +1,5 @@
+[Serina Garcia] (https://github.com/serinagg)
+[Dylan Hall] (https://github.com/zinks)
+[Andrew Hill] (https://github.com/manicdepracity)
+[Ryan Lehmer] (https://github.com/notenoughcharact)
+[Salvador Tapia] (htts://github.com/SalTapia)
