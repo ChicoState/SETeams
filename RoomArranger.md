@@ -1,5 +1,5 @@
-# Room Arranger
-## Team Members
+ # Room Arranger
+
 * [Quinn Gavin](https://github.com/quinn280)
 * [Chloe Koschnick](https://github.com/cmkoschnick)
 * [Adrian Arredondo](https://github.com/adrian015)
