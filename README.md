@@ -7,6 +7,7 @@
 * [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
 * [RealDealz](RealDealz.md)
+* [Rent Review](rentreview.md)
 * [Room Arranger](RoomArranger.md)
 * [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
