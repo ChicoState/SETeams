@@ -22,6 +22,7 @@
 * [Student Scheduler](studentscheduler.md)
 * [Style Guide](styleguide.md)
 * [Team Builder](teambuilder.md)
+* [What's 4 Dinner](What4Dinner.md)
 
 ## CSCI 430 (Spring 2022):
 
