@@ -2,8 +2,13 @@
 
 ## CSCI 430 (Spring 2023):
 
+<<<<<<< HEAD
 * [Voting Match](VotingMatch.md)
 * [Shoe Expert](ShoeExpert.md)
+=======
+* [Errand Planner](ErrandPlanner.md)
+* [Voting Match](VotingMatch.md)
+>>>>>>> 30707cf5c7c75c628293ccf5cad879c35a76fe45
 
 ## CSCI 430 (Fall 2022):
 
