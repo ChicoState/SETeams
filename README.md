@@ -7,6 +7,7 @@
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
+* [Room Arranger](RoomArranger.md)
 * [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
 
