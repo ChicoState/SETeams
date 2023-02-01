@@ -1,6 +1,7 @@
 # Group Activity
 
-Team members:
+## Team members:
+
 * [Sage Becker](https://github.com/sbcsu)
 * [Jorge Castaneda](https://github.com/Jorge-C-2000)
 * [Gurpreet Jagpal](https://github.com/garyjag08)
