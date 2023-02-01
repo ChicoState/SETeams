@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Spring 2023):
 
+* [Chore No More](ChoreNoMore.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
