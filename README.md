@@ -2,11 +2,11 @@
 
 ## CSCI 430 (Spring 2023):
 
-* [RealDealz](RealDealz.md)
 * [Chore No More](ChoreNoMore.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
+* [RealDealz](RealDealz.md)
 * [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
 

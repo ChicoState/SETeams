@@ -1,6 +1,7 @@
 # RealDealz
 
 ## Developers
+
 - Joseph Kim [J26001](https://github.com/J26001)
 - Noah Iles [NoahIles](https://github.com/noahiles)
 - Nicholas hibbard [nickhib](https://github.com/nickhib)
