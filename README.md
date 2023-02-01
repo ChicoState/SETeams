@@ -5,6 +5,7 @@
 * [Chore No More](ChoreNoMore.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
+* [Muscle Quest](MuscleQuest.md)
 * [neighborhood Deals](neighborhoodDeals.md)
 * [RealDealz](RealDealz.md)
 * [Rent Review](rentreview.md)
@@ -78,7 +79,6 @@
 * [OnDemandIT](ODIT.md)
 * [SmartCCTV](SmartCCTV.md)
 
-
 ## CSCI 430 (Fall 2019):
 
 * [Apetur](apetur.md)
@@ -91,7 +91,6 @@
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 * [SceneAlert](SceneAlert.md)
-
 
 ## CSCI 430 (Spring 2019):
 
