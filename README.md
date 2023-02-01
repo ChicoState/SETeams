@@ -2,7 +2,15 @@
 
 ## CSCI 430 (Spring 2023):
 
+- [Chore No More](ChoreNoMore.md)
+- [Errand Planner](ErrandPlanner.md)
+- [Group Activity](groupactivity.md)
 - [Muscle Quest](MuscleQuest.md)
+- [neighborhood Deals](neighborhoodDeals.md)
+- [RealDealz](RealDealz.md)
+- [Room Arranger](RoomArranger.md)
+- [Shoe Expert](ShoeExpert.md)
+- [Voting Match](VotingMatch.md)
 
 ## CSCI 430 (Fall 2022):
 
@@ -16,6 +24,8 @@
 - [Student Scheduler](studentscheduler.md)
 - [Style Guide](styleguide.md)
 - [Team Builder](teambuilder.md)
+- [What's 4 Dinner](What4Dinner.md)
+  > > > > > > > main
 
 ## CSCI 430 (Spring 2022):
 
