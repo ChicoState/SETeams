@@ -2,8 +2,10 @@
 
 ## CSCI 430 (Spring 2023):
 
-* [Errand Planner](ErrandPlanner.md)i
+* [Errand Planner](ErrandPlanner.md)
+* [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
+* [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
 
 ## CSCI 430 (Fall 2022):
