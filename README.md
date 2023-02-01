@@ -4,6 +4,7 @@
 
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
+* [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
 
 ## CSCI 430 (Fall 2022):
