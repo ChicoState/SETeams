@@ -6,6 +6,7 @@
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
 * [neighborhood Deals](neighborhoodDeals.md)
+* [RealDealz](RealDealz.md)
 * [Rent Review](rentreview.md)
 * [Room Arranger](RoomArranger.md)
 * [Shoe Expert](ShoeExpert.md)
@@ -23,6 +24,7 @@
 * [Student Scheduler](studentscheduler.md)
 * [Style Guide](styleguide.md)
 * [Team Builder](teambuilder.md)
+* [What's 4 Dinner](What4Dinner.md)
 
 ## CSCI 430 (Spring 2022):
 
