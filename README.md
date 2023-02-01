@@ -2,9 +2,10 @@
 
 ## CSCI 430 (Spring 2023):
 
-* [Errand Planner](ErrandPlanner.md)
+* [Errand Planner](ErrandPlanner.md)i
+* [neighborhood Deals](neighborhoodDeals.md)
 * [Voting Match](VotingMatch.md)
-* [neighborhood Deals](neighborhoodDealss.md)
+
 ## CSCI 430 (Fall 2022):
 
 * [Bracket Maker](bracketmaker.md)
