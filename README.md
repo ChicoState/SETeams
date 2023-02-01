@@ -30,7 +30,7 @@
 
 * [BuddyUp](BuddyUp.md)
 * [CS Tutor](csTutor.md)
-* [Looking*For*Game](Looking*For*Game.md)
+* [Looking*For*Game](Looking-For-Game.md)
 * [Open Source Security Camera](OpenSourceSecurityCamera.md)
 * [Ping Me](pingme.md)
 * [Plant Social](PlantSocial.md)
@@ -107,9 +107,9 @@
 ## CSCI 430 (Fall 2018):
 
 * [3D Print](3dp.md)
-* [The Rek](the*rek.md)
+* [The Rek](the-rek.md)
 * [Teen Job Match](teenjobmatch.md)
-* [ToDo\*List](todo*list.md)
+* [ToDo\*List](todo-list.md)
 * [Black Ink Economics](BlackInkEconomics.md)
 * [Meriam Maximum](MeriamMaximum.md)
 * [The best PAWsible collar](the_best_PAWsible_collar.md)
