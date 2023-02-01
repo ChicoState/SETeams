@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Spring 2023):
-
+* [Chore No More](ChoreNoMore.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Voting Match](VotingMatch.md)
 
