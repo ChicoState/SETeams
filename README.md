@@ -4,6 +4,7 @@
 
 * [Chore No More](ChoreNoMore.md)
 * [Errand Planner](ErrandPlanner.md)
+* [Group Activity](groupactivity.md)
 * [Voting Match](VotingMatch.md)
 
 ## CSCI 430 (Fall 2022):
