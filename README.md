@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Spring 2023):
 
-
+* [Shoe Expert](ShoeExpert.md)
 
 ## CSCI 430 (Fall 2022):
 
