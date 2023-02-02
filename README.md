@@ -6,7 +6,10 @@
 * [Debt Supervisor](debtSupervisor.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
+* [Muscle Quest](MuscleQuest.md)
 * [neighborhood Deals](neighborhoodDeals.md)
+* [RealDealz](RealDealz.md)
+* [Rent Review](rentreview.md)
 * [Room Arranger](RoomArranger.md)
 * [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
@@ -23,6 +26,7 @@
 * [Student Scheduler](studentscheduler.md)
 * [Style Guide](styleguide.md)
 * [Team Builder](teambuilder.md)
+* [What's 4 Dinner](What4Dinner.md)
 
 ## CSCI 430 (Spring 2022):
 
@@ -76,7 +80,6 @@
 * [OnDemandIT](ODIT.md)
 * [SmartCCTV](SmartCCTV.md)
 
-
 ## CSCI 430 (Fall 2019):
 
 * [Apetur](apetur.md)
@@ -89,7 +92,6 @@
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 * [SceneAlert](SceneAlert.md)
-
 
 ## CSCI 430 (Spring 2019):
 
