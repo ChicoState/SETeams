@@ -3,6 +3,7 @@
 ## CSCI 430 (Spring 2023):
 
 * [Chore No More](ChoreNoMore.md)
+* [Debt Supervisor](debtSupervisor.md)
 * [Errand Planner](ErrandPlanner.md)
 * [Group Activity](groupactivity.md)
 * [Muscle Quest](MuscleQuest.md)
