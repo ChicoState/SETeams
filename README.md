@@ -13,6 +13,7 @@
 * [Room Arranger](RoomArranger.md)
 * [Shoe Expert](ShoeExpert.md)
 * [Voting Match](VotingMatch.md)
+* [What's for Dinner](What4Dinner.md)
 
 ## CSCI 430 (Fall 2022):
 
