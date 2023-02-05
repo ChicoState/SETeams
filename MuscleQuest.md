@@ -1,8 +1,8 @@
 # Workout Challenge
 
 ## Members
-- [Caleb Besser](https://github.com/CalebBesser)
-- [McKeever Watts](https://github.com/Prospector)
-- [Peter Mezies](https://github.com/PJMenzies)
-- [Sloane Tribble](https://github.com/SloaneTribble/)
-- [Isael Puentes](https://github.com/isaelpuentes)
+- Caleb Besser [CalebBesser](https://github.com/CalebBesser)
+- McKeever Watts [Prospector](https://github.com/Prospector)
+- Peter Mezies [PJMezies](https://github.com/PJMenzies)
+- Sloane Tribble [SloaneTribble](https://github.com/SloaneTribble/)
+- Isael Puentes [isaelpuentes](https://github.com/isaelpuentes)
