@@ -6,5 +6,5 @@
 * Travis Kroll, [tjvkroll](https://github.com/tjvkroll)
 * Jordan Silva, [ZenoPsycho](https://github.com/ZenoPsycho)
 * Alex Richason, [arichason](https://github.com/arichason)
-* Grace Skretny, [gskretny](https://github.com/gskrentny)
+* Grace Skretny, [gskrentny](https://github.com/gskrentny)
 
