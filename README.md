@@ -7,6 +7,7 @@
 
 ## CSCI 430 (Spring 2023):
 
+* [BlueConnect](BlueConnect.md)
 * [Chore No More](ChoreNoMore.md)
 * [Debt Supervisor](debtSupervisor.md)
 * [Errand Planner](ErrandPlanner.md)
