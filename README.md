@@ -1,6 +1,8 @@
 # Software Engineering
 
-## CSCI 440 (Fall 2023):
+## CSCI 430 (Fall 2023):
+
+* [BilliardsTrainer](BilliardsTrainer.md)
 * [VidDiffusion](VidDiffusion.md)
 
 ## CSCI 430 (Spring 2023):
