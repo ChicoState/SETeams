@@ -1,5 +1,8 @@
 # Software Engineering
 
+## CSCI 440 (Fall 2023):
+* [VidDiffusion](VidDiffusion.md)
+
 ## CSCI 430 (Spring 2023):
 
 * [Chore No More](ChoreNoMore.md)
