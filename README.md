@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Fall 2023):
 
+* [BlueConnect](BlueConnect.md)
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [VidDiffusion](VidDiffusion.md)
 
