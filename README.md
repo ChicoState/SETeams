@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2023):
 
 * [BilliardsTrainer](BilliardsTrainer.md)
+* [Indie-Link](IndieLink.md)
 
 ## CSCI 430 (Spring 2023):
 
