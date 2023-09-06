@@ -2,5 +2,5 @@
 
 ## Developers
 
-* [Nick Cressy](https://github.com/nscressy)
+*[Nick Cressy](https://github.com/nscressy)
 * [Christopher Gemperle](https://github.com/BipbopBohnfon)
