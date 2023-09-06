@@ -4,6 +4,7 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
+* [PantryPal](PantryPal.md)
 * [Tee-Together](Tee-Together.md)
 * [VidDiffusion](VidDiffusion.md)
 
