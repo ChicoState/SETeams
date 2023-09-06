@@ -2,6 +2,6 @@
 
 ## Developers
 
-- Jasper Robbins, Jrobbinsss18
+* Jasper Robbins: [Jrobbinsss18](https://github.com/JRobbinsss18)
 
 
