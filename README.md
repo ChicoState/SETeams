@@ -2,13 +2,12 @@
 
 ## CSCI 430 (Fall 2023):
 
-* [BlueConnect](BlueConnect.md)
 * [BilliardsTrainer](BilliardsTrainer.md)
+* [BlueConnect](BlueConnect.md)
 * [VidDiffusion](VidDiffusion.md)
 
 ## CSCI 430 (Spring 2023):
 
-* [BlueConnect](BlueConnect.md)
 * [Chore No More](ChoreNoMore.md)
 * [Debt Supervisor](debtSupervisor.md)
 * [Errand Planner](ErrandPlanner.md)
