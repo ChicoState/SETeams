@@ -1,5 +1,11 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2023):
+
+* [BilliardsTrainer](BilliardsTrainer.md)
+* [BlueConnect](BlueConnect.md)
+* [VidDiffusion](VidDiffusion.md)
+
 ## CSCI 430 (Spring 2023):
 
 * [Chore No More](ChoreNoMore.md)
