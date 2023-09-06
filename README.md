@@ -4,6 +4,7 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
+* [MusicMirror](MusicMirror.md)
 * [VidDiffusion](VidDiffusion.md)
 
 ## CSCI 430 (Spring 2023):
