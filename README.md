@@ -4,6 +4,7 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [VidDiffusion](VidDiffusion.md)
+* [BudgetTravel](budgettravel.md)
 
 ## CSCI 430 (Spring 2023):
 
