@@ -5,6 +5,7 @@
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
 * [MusicMirror](MusicMirror.md)
+* [ScheduleBuilder](ScheduleBuilder.md)
 * [Tee-Together](Tee-Together.md)
 * [VidDiffusion](VidDiffusion.md)
 
