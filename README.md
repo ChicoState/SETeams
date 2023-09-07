@@ -4,6 +4,11 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [Indie-Link](IndieLink.md)
+* [BlueConnect](BlueConnect.md)
+* [MusicMirror](MusicMirror.md)
+* [ScheduleBuilder](ScheduleBuilder.md)
+* [Tee-Together](Tee-Together.md)
+* [VidDiffusion](VidDiffusion.md)
 
 ## CSCI 430 (Spring 2023):
 
