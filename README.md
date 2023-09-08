@@ -5,7 +5,7 @@
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
 * [CullinaryCollab](CullinaryCollab.md)
-* [Indie-Link](IndieLink.md)
+* [Indie-Link](Indie-Link.md)
 * [MusicMirror](MusicMirror.md)
 * [ScheduleBuilder](ScheduleBuilder.md)
 * [Tee-Together](Tee-Together.md)
