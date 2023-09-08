@@ -3,8 +3,8 @@
 ## CSCI 430 (Fall 2023):
 
 * [BilliardsTrainer](BilliardsTrainer.md)
-* [BudgetTravel](budgettravel.md)
 * [BlueConnect](BlueConnect.md)
+* [BudgetTravel](budgettravel.md)
 * [CullinaryCollab](CullinaryCollab.md)
 * [MusicMirror](MusicMirror.md)
 * [ScheduleBuilder](ScheduleBuilder.md)
