@@ -4,10 +4,12 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
+* [BudgetTravel](budgettravel.md)
 * [CullinaryCollab](CullinaryCollab.md)
 * [Indie-Link](Indie-Link.md)
 * [friendHub](friendHub.md)
 * [MusicMirror](MusicMirror.md)
+* [PantryPal](PantryPal.md)
 * [ScheduleBuilder](ScheduleBuilder.md)
 * [Tee-Together](Tee-Together.md)
 * [VidDiffusion](VidDiffusion.md)
