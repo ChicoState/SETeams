@@ -7,6 +7,7 @@
 * [BudgetTravel](budgettravel.md)
 * [CullinaryCollab](CullinaryCollab.md)
 * [friendHub](friendHub.md)
+* [Indie-Link](Indie-Link.md)
 * [MusicMirror](MusicMirror.md)
 * [PantryPal](PantryPal.md)
 * [ScheduleBuilder](ScheduleBuilder.md)
