@@ -4,6 +4,7 @@
 
 * [BilliardsTrainer](BilliardsTrainer.md)
 * [BlueConnect](BlueConnect.md)
+* [BudgetTravel](budgettravel.md)
 * [CullinaryCollab](CullinaryCollab.md)
 * [friendHub](friendHub.md)
 * [MusicMirror](MusicMirror.md)
