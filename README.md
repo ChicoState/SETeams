@@ -1,8 +1,62 @@
 # Software Engineering
 
+
 ## CSCI 430 (Spring 2023):
 
+* Animal Adopter
+* Autoscrap
+* Catalyst
+* DAWdle
+* Ebook Image
+* Friend Me
+* Kitchen Pantry
+* Rosetta Song
+* Smoothies-for-All
+* TCG Binder
 
+## CSCI 430 (Fall 2023):
+
+* [BilliardsTrainer](BilliardsTrainer.md)
+* [BlueConnect](BlueConnect.md)
+* [BudgetTravel](budgettravel.md)
+* [CullinaryCollab](CullinaryCollab.md)
+* [friendHub](friendHub.md)
+* [Indie-Link](Indie-Link.md)
+* [MusicMirror](MusicMirror.md)
+* [PantryPal](PantryPal.md)
+* [ScheduleBuilder](ScheduleBuilder.md)
+* [Tee-Together](Tee-Together.md)
+* [VidDiffusion](VidDiffusion.md)
+
+## CSCI 430 (Spring 2023):
+
+* [Chore No More](ChoreNoMore.md)
+* [Debt Supervisor](debtSupervisor.md)
+* [Errand Planner](ErrandPlanner.md)
+* [Group Activity](groupactivity.md)
+* [Muscle Quest](MuscleQuest.md)
+* [neighborhood Deals](neighborhoodDeals.md)
+* [RealDealz](RealDealz.md)
+* [Rent Review](rentreview.md)
+* [Room Arranger](RoomArranger.md)
+* [Shoe Expert](ShoeExpert.md)
+* [Voting Match](VotingMatch.md)
+* [What's for Dinner](What4Dinner.md)
+
+## CSCI 430 (Fall 2022):
+
+* [Bracket Maker](bracketmaker.md)
+* [Fridge](fridge.md)
+* [MyPantry](mypantry.md)
+* [ReaderHub](readerhub.md)
+* [Road Tripper](roadtripper.md)
+* [Sleep Well](sleepwell.md)
+* [Song Snippet](songsnippet.md)
+* [Student Scheduler](studentscheduler.md)
+* [Style Guide](styleguide.md)
+* [Team Builder](teambuilder.md)
+* [What's 4 Dinner](What4Dinner.md)
+>>>>>>> 70be8c400d506dd6d9486440fb4f7fc8a111e240
 
 ## CSCI 430 (Spring 2022):
 
@@ -15,7 +69,8 @@
 * [Sound Scape](SoundScape.md)
 * [SPLIT](SPLIT.md)
 * [Wild Life](WildLife.md)
-
+* [HappyHourFinder](HappyHourFinder.md)
+* [WhatsCookin](WhatsCookin.md)
 
 ## CSCI 430 (Fall 2020):
 
@@ -55,7 +110,6 @@
 * [OnDemandIT](ODIT.md)
 * [SmartCCTV](SmartCCTV.md)
 
-
 ## CSCI 430 (Fall 2019):
 
 * [Apetur](apetur.md)
@@ -68,7 +122,6 @@
 * [RuMate](RuMate.md)
 * [SafeAlert](safealert.md)
 * [SceneAlert](SceneAlert.md)
-
 
 ## CSCI 430 (Spring 2019):
 
