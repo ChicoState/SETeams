@@ -1,3 +1,5 @@
-#Team DAWdle
+# Team DAWdle
 
 * Aidan Raymond, [Tabris05](https://github.com/tabris05)
+* Ray Perez, [raperez2](https://github.com/raperez2)
+* Adam Ullmann, [adamullmann](https://github.com/AdamUllmann)
