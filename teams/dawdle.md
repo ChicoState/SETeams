@@ -4,3 +4,4 @@
 * Aidan Raymond, [Tabris05](https://github.com/tabris05)
 * Ray Perez, [raperez2](https://github.com/raperez2)
 * Adam Ullmann, [AdamUllmann](https://github.com/AdamUllmann)
+* Evan Pottier, [Drillgon200](https://github.com/Drillgon200)
