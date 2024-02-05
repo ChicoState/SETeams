@@ -1,3 +1,6 @@
 #Team Dawdle
 
 *[Caleb Ray](https://github.com/epicgy12)
+* Aidan Raymond, [Tabris05](https://github.com/tabris05)
+* Ray Perez, [raperez2](https://github.com/raperez2)
+* Adam Ullmann, [adamullmann](https://github.com/AdamUllmann)
