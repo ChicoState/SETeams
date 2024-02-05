@@ -5,7 +5,7 @@
 
 * Animal Adopter
 * Autoscrap
-* Catalyst
+* [Catalyst](https://github.com/ChicoState/SETeams/blob/main/teams/Catalyst.md)
 * DAWdle
 * Ebook Image
 * Friend Me
