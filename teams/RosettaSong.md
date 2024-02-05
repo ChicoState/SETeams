@@ -2,8 +2,8 @@
 
 ## Developers
 
-* [Blake Hufford](https://github.com/Nam3lessKNG)
-* [Aditya Mohandas](https://github.com/aditya18m)
+* Blake Hufford, [Nam3lessKNG](https://github.com/Nam3lessKNG)
+* Aditya Mohandas, [aditya18m](https://github.com/aditya18m)
 *
 *
 *
