@@ -11,7 +11,7 @@
 * Friend Me
 * Kitchen Pantry
 * Rosetta Song
-* Smoothies-for-All
+* [Smoothies-for-All](teams/SmoothiesForAll.md)
 * TCG Binder
 
 ## CSCI 430 (Fall 2023):
