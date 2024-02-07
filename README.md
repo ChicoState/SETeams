@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Spring 2024):
 
-* Animal Adopter
+* [Animal Adopter](teams/AnimalAdopter.md)
 * Autoscrap
 * Catalyst
 * [DAWdle](teams/dawdle.md)
