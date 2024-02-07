@@ -4,3 +4,5 @@
 * Nathan Whitney, [the29ster](https://github.com/the29ster)
 * Tyler Nash, [tnash321](https://github.com/tnash321)
 * Ivan Transito-Sallinas [transito23](https://github.com/transito23)
+* Ivan Transito-Sallinas [transito23](https://github.com/transito23)
+* Anders Beil, [akbeil](https://github.com/akbeil)
