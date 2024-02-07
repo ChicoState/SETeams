@@ -8,7 +8,7 @@
 * Catalyst
 * DAWdle
 * Ebook Image
-* Friend Me
+* Friend Me[https://github.com/Solarleaf/SETeams/blob/main/teams/FriendMe.md]
 * Kitchen Pantry
 * Rosetta Song
 * Smoothies-for-All
