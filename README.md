@@ -13,6 +13,16 @@
 * Rosetta Song
 * Smoothies-for-All
 * TCG Binder
+* [Animal Adopter](teams/AnimalAdopter.md)
+* [Autoscrap](teams/autoscrap.md)
+* Catalyst
+* [DAWdle](teams/dawdle.md)
+* [Ebook Image](teams/EbookImage.md)
+* [Friend Me](teams/FriendMe.md)
+* [Kitchen Pantry](teams/kitchenpantry.md)
+* [Rosetta Song](teams/RosettaSong.md)
+* [Smoothies-for-All](teams/SmoothiesForAll.md)
+* [TCG Binder](teams/TCG_Binder.md)
 
 ## CSCI 430 (Fall 2023):
 
