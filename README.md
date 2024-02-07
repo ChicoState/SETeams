@@ -6,9 +6,9 @@
 * Animal Adopter
 * Autoscrap
 * Catalyst
-* DAWdle
+* [DAWdle](teams/dawdle.md)
 * [Ebook Image](teams/EbookImage.md)
-* Friend Me
+* [Friend Me](teams/FriendMe.md)
 * Kitchen Pantry
 * Rosetta Song
 * Smoothies-for-All
