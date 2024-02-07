@@ -1,5 +1,3 @@
-Josh Follmer
-
 # Catalyst
 
 ## Developers
