@@ -6,7 +6,7 @@
 * Animal Adopter
 * Autoscrap
 * Catalyst
-* DAWdle
+* [DAWdle](teams/dawdle.md)
 * Ebook Image
 * Friend Me
 * Kitchen Pantry
