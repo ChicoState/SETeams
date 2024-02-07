@@ -7,7 +7,7 @@
 * Autoscrap
 * Catalyst
 * [DAWdle](teams/dawdle.md)
-* Ebook Image
+* [Ebook Image](teams/EbookImage.md)
 * [Friend Me](teams/FriendMe.md)
 * Kitchen Pantry
 * Rosetta Song
