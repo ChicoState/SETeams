@@ -3,15 +3,15 @@
 
 ## CSCI 430 (Spring 2024):
 
-* Animal Adopter
+* [Animal Adopter](teams/AnimalAdopter.md)
 * [Autoscrap](teams/autoscrap.md)
 * Catalyst
-* DAWdle
-* Ebook Image
-* Friend Me
-* Kitchen Pantry
-* Rosetta Song
-* Smoothies-for-All
+* [DAWdle](teams/dawdle.md)
+* [Ebook Image](teams/EbookImage.md)
+* [Friend Me](teams/FriendMe.md)
+* [Kitchen Pantry](teams/kitchenpantry.md)
+* [Rosetta Song](teams/RosettaSong.md)
+* [Smoothies-for-All](teams/SmoothiesForAll.md)
 * TCG Binder
 
 ## CSCI 430 (Fall 2023):
