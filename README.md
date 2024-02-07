@@ -4,7 +4,7 @@
 ## CSCI 430 (Spring 2024):
 
 * [Animal Adopter](teams/AnimalAdopter.md)
-* Autoscrap
+* [Autoscrap](teams/autoscrap.md)
 * Catalyst
 * [DAWdle](teams/dawdle.md)
 * [Ebook Image](teams/EbookImage.md)
