@@ -4,3 +4,4 @@ Andre de Rosas [acderosas](https://github.com/acderosas)git add teams/TCG_Binder
 Dexter Lemm [bbynocode](https://github.com/bbynoCode)
 Matthew Saephan [Mattatatouille](https://github.com/Mattatatouille)
 David Carbajal [PepperJam-Loser](https://github.com/PepperJam-Loser)
+Xavier Torres [xutorres](https://github.com/xutorres)
