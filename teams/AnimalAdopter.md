@@ -5,3 +5,4 @@
 * Tyler Nash, [tnash321](https://github.com/tnash321)
 * Ivan Transito-Sallinas [transito23](https://github.com/transito23)
 * Anders Beil, [akbeil](https://github.com/akbeil)
+* Natalie Hoffmann, [a13n20](https://github.com/a13n20)
