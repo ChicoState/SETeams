@@ -8,7 +8,7 @@
 * Catalyst
 * [DAWdle](teams/dawdle.md)
 * Ebook Image
-* Friend Me
+* [Friend Me](teams/FriendMe.md)
 * Kitchen Pantry
 * Rosetta Song
 * Smoothies-for-All
