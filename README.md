@@ -10,7 +10,7 @@
 * [Ebook Image](teams/EbookImage.md)
 * [Friend Me](teams/FriendMe.md)
 * [Kitchen Pantry](teams/kitchenpantry.md)
-* Rosetta Song
+* [Rosetta Song](teams/RosettaSong.md)
 * [Smoothies-for-All](teams/SmoothiesForAll.md)
 * TCG Binder
 
