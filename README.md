@@ -9,7 +9,7 @@
 * DAWdle
 * Ebook Image
 * Friend Me
-* Kitchen Pantry
+* [Kitchen Pantry](teams/kitchenpantry.md)
 * Rosetta Song
 * Smoothies-for-All
 * TCG Binder
