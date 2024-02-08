@@ -7,7 +7,7 @@
 
 * [Animal Adopter](teams/AnimalAdopter.md)
 * [Autoscrap](teams/autoscrap.md)
-* [Catalyst](https://github.com/ChicoState/SETeams/blob/main/teams/Catalyst.md)
+* [Catalyst](teams/Catalyst.md)
 * [DAWdle](teams/dawdle.md)
 * [Ebook Image](teams/EbookImage.md)
 * [Friend Me](teams/FriendMe.md)
