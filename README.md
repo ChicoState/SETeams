@@ -3,19 +3,11 @@
 
 ## CSCI 430 (Spring 2024):
 
-* Animal Adopter
-* Autoscrap
-* [Catalyst](https://github.com/ChicoState/SETeams/blob/main/teams/Catalyst.md)
-* DAWdle
-* Ebook Image
-* Friend Me
-* Kitchen Pantry
-* Rosetta Song
-* Smoothies-for-All
-* TCG Binder
+
+
 * [Animal Adopter](teams/AnimalAdopter.md)
 * [Autoscrap](teams/autoscrap.md)
-* Catalyst
+* [Catalyst](https://github.com/ChicoState/SETeams/blob/main/teams/Catalyst.md)
 * [DAWdle](teams/dawdle.md)
 * [Ebook Image](teams/EbookImage.md)
 * [Friend Me](teams/FriendMe.md)
