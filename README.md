@@ -1,10 +1,8 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2024)
 
-## CSCI 430 (Fall 2024):
-
-* 
-
+* [Dynamic Scheduler](teams/DynamicScheduler.md)
 
 ## CSCI 430 (Spring 2024):
 
