@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Fall 2024):
 
-* 
+* [Beginners](teams/Beginners.md)
 
 
 ## CSCI 430 (Spring 2024):
