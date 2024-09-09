@@ -1,9 +1,10 @@
 # Software Engineering
 
 
+
 ## CSCI 430 (Fall 2024):
 
-* 
+* [AroundU](teams/AroundU.md)
 
 
 ## CSCI 430 (Spring 2024):
