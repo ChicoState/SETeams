@@ -1,9 +1,12 @@
 # Software Engineering
 
 
+## CSCI 430 (Fall 2024):
+
+* 
+
+
 ## CSCI 430 (Spring 2024):
-
-
 
 * [Animal Adopter](teams/AnimalAdopter.md)
 * [Autoscrap](teams/autoscrap.md)
