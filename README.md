@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Fall 2024):
 
-* 
+* [Pickup](teams/Pickup.md)
 
 
 ## CSCI 430 (Spring 2024):
