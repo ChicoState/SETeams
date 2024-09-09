@@ -4,6 +4,7 @@
 ## CSCI 430 (Fall 2024):
 
 * 
+* [Good Days](teams/GoodDays.md)
 
 
 ## CSCI 430 (Spring 2024):
