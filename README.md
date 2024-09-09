@@ -4,7 +4,7 @@
 ## CSCI 430 (Fall 2024):
 
 * 
-
+* [Fight Me](teams/FightMe.md)
 
 ## CSCI 430 (Spring 2024):
 
