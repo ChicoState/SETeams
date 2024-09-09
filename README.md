@@ -4,6 +4,7 @@
 ## CSCI 430 (Fall 2024):
 
 * 
+* [StitchNiche](teams/StitchNiche.md)
 
 
 ## CSCI 430 (Spring 2024):
