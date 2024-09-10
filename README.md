@@ -2,8 +2,7 @@
 
 
 ## CSCI 430 (Fall 2024):
-
-* 
+* [StaySafe](teams/StaySafe.md)
 
 
 ## CSCI 430 (Spring 2024):
