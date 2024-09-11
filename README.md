@@ -1,8 +1,13 @@
 # Software Engineering
 
-## CSCI 430 (Fall 2024)
+## CSCI 430 (Fall 2024):
 
+* [AroundU](teams/AroundU.md)
+* [Beginners](teams/Beginners.md)
 * [Dynamic Scheduler](teams/DynamicScheduler.md)
+* [Fight Me](teams/FightMe.md)
+* [Good Days](teams/GoodDays.md)
+* [SoundCircle](teams/SoundCircle.md)
 
 ## CSCI 430 (Spring 2024):
 
