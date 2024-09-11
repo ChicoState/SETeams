@@ -4,6 +4,7 @@
 
 * [AroundU](teams/AroundU.md)
 * [Beginners](teams/Beginners.md)
+* [Dynamic Scheduler](teams/DynamicScheduler.md)
 * [Fight Me](teams/FightMe.md)
 * [Good Days](teams/GoodDays.md)
 * [SoundCircle](teams/SoundCircle.md)
