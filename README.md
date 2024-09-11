@@ -1,10 +1,18 @@
 # Software Engineering
 
-
 ## CSCI 430 (Fall 2024):
 
+* [Tunes-To-Sheets](teams/Tunes-to-Sheets.md)
+* [AroundU](teams/AroundU.md)
+* [Beginners](teams/Beginners.md)
+* [Dynamic Scheduler](teams/DynamicScheduler.md)
+* [Fight Me](teams/FightMe.md)
+* [Good Days](teams/GoodDays.md)
 * [Odd Jobs](teams/Odd-Jobs.md) 
-
+* [Pickup](teams/Pickup.md)
+* [SoundCircle](teams/SoundCircle.md)
+* [StaySafe](teams/StaySafe.md)
+* [StitchNiche](teams/StitchNiche.md)
 
 ## CSCI 430 (Spring 2024):
 
