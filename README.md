@@ -7,7 +7,9 @@
 * [Dynamic Scheduler](teams/DynamicScheduler.md)
 * [Fight Me](teams/FightMe.md)
 * [Good Days](teams/GoodDays.md)
+* [Pickup](teams/Pickup.md)
 * [SoundCircle](teams/SoundCircle.md)
+
 
 ## CSCI 430 (Spring 2024):
 
