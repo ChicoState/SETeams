@@ -3,8 +3,9 @@
 
 ## CSCI 430 (Fall 2024):
 
+* [Fight Me](teams/FightMe.md)
+* [Good Days](teams/GoodDays.md)
 * [SoundCircle](teams/SoundCircle.md)
-
 
 ## CSCI 430 (Spring 2024):
 
