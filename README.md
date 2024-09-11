@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Fall 2024):
 
-* 
+* [Odd Jobs](teams/Odd-Jobs.md) 
 
 
 ## CSCI 430 (Spring 2024):
