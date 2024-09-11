@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Fall 2024):
 
-* 
+* [Fight Me](teams/FightMe.md)
 * [Good Days](teams/GoodDays.md)
 
 
