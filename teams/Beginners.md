@@ -6,3 +6,4 @@
 * Luis Martinez, [LuisM2212](https://github.com/LuisM2212)
 * Alex Blue, [AJblu](https://github.com/ajblu)
 * Sumomo Okada, [sumo431](https://github.com/sumo431)
+* Vernon Earwood, [vbearwood](https://github.com/vbearwood)
