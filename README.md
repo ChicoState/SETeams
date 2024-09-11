@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Fall 2024):
 
+* [Tunes-To-Sheets](teams/Tunes-to-Sheets.md)
 * [AroundU](teams/AroundU.md)
 * [Beginners](teams/Beginners.md)
 * [Dynamic Scheduler](teams/DynamicScheduler.md)
