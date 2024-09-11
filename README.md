@@ -9,6 +9,7 @@
 * [Good Days](teams/GoodDays.md)
 * [Pickup](teams/Pickup.md)
 * [SoundCircle](teams/SoundCircle.md)
+* [StaySafe](teams/StaySafe.md)
 * [StitchNiche](teams/StitchNiche.md)
 
 
