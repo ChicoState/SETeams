@@ -3,7 +3,7 @@
 
 ## CSCI 430 (Fall 2024):
 
-* 
+* [Tunes-To-Sheets](teams/Tunes-to-Sheets.md)
 
 
 ## CSCI 430 (Spring 2024):
