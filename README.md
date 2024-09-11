@@ -1,6 +1,5 @@
 # Software Engineering
 
-
 ## CSCI 430 (Fall 2024):
 
 * [Tunes-To-Sheets](teams/Tunes-to-Sheets.md)
