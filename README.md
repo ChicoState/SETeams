@@ -11,6 +11,7 @@ Software Engineering
 * [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
 * [Smartinsulin](teams/smartinsulin.md)
+* [pricecheck](teams/pricecheck.md)
 * [RoomieBuddy](teams/RoomieBuddy.md)
 
 ## CSCI 430 (Fall 2024):
