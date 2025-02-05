@@ -1,8 +1,12 @@
-# Software Engineering
+Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
 * [Snapshot](teams/Snapshot.md)
+* [team name](relative/link.md)
+* [GymBuddy](teams/GymBuddy.md)
+* [CreativeBlock](teams/CreativeBlock.md)
+* [DJ Song Match](teams/djsongmatch.md)
 
 
 ## CSCI 430 (Fall 2024):
