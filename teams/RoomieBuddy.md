@@ -2,6 +2,6 @@
 
 ## Developers
 
-[Hugo Tanaka](https://github.com/AlphaIru)
-[William Westfahl](https://github.com/t-westfahl)
-
+* [Hugo Tanaka](https://github.com/AlphaIru)
+* [William Westfahl](https://github.com/t-westfahl)
+* [Elijah Coleman] (https://github.com/EscGit)
