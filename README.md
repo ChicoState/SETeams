@@ -5,6 +5,7 @@ Software Engineering
 * [team name](relative/link.md)
 * [CreativeBlock](teams/CreativeBlock.md)
 * [habitflow](team/habitflow.md)
+* [habitflow](team/habitflow.md)
 
 ## CSCI 430 (Fall 2024):
 
