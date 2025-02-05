@@ -2,12 +2,12 @@
 
 ## Developers 
 
-* [Mateo Guzman] (https://github.com/mateoguzv)
+* [Mateo Guzman](https://github.com/mateoguzv)
 *
 *
 *
 *
 *
-* [Austin Phanachone] (https://github.com/aphanachone)
+* [Austin Phanachone](https://github.com/aphanachone)
 
 
