@@ -1,1 +1,2 @@
 - [Max van der Veen](https://github.com/maxbutevil)
+- [Gabriel Trujillo](https://githuh.com/Gabriel-T-0988)
