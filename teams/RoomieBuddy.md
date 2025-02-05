@@ -1,1 +1,1 @@
-* [Elijah Coleman] (https://github.com/EscGit)
+* [Elijah Coleman](https://github.com/EscGit)
