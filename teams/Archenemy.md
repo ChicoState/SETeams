@@ -7,6 +7,7 @@ aka The Hating App
 - [Jiqing Yang](https://github.com/WERDXZ)
 - [Max van der Veen](https://github.com/maxbutevil)
 - [Gabriel Trujillo](https://github.com/Gabriel-T-0988)
+- [Sage Becker](https://github.com/sbcsu)
 
 ```
   ___           _                                    
