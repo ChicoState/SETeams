@@ -1,5 +1,5 @@
-## pricecheck
-
+[Ismael Kane](https://github.com/Ismaelkane)
+[Edgar Rangel](https://github.com/legendspy-1)
 * [Ilayda Turgut](https://github.com/iturgut)
 * [Ismael Kane](https://github.com/Ismaelkane)
 * [Jack Mumford](https://github.com/jack-mumford)
