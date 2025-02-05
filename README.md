@@ -4,7 +4,7 @@ Software Engineering
 
 * [Archenemy](teams/Archenemy.md)
 * [Heart Disease Detector](teams/HeartDisease.md)
-* [team name](relative/link.md)
+* [RedeemingTheTime](teams/RedeemingTheTime.md)
 * [clipbee](teams/clipbee.md)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
