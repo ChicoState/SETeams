@@ -2,12 +2,9 @@ Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
-<<<<<<< HEAD
-* [GymBuddy](teams/GymBuddy.md)
-=======
 * [team name](relative/link.md)
+* [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
->>>>>>> 5b821538a55fc69ba0f9bd408ecffe3ebb70ead2
 
 
 ## CSCI 430 (Fall 2024):
