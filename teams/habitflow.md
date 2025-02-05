@@ -1,4 +1,8 @@
+** DEVELOPERS
+
 
 [Drew L. Mortenson](https://github.com/DrewsCodeLife)
-[Patrick Guevarra](https://github.com/pvguevarra)
 [Halin Gailey](https://github.com/hgailey)
+
+[Nick Kaplan] (https://github.com/NickK21)
+[Patrick Guevarra](https://github.com/pvguevarra)
