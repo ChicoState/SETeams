@@ -6,7 +6,7 @@ aka The Hating App
 - [Lawrence Elias Boyd](https://github.com/EliasBoyd)
 - [Jiqing Yang](https://github.com/WERDXZ)
 - [Max van der Veen](https://github.com/maxbutevil)
-- [Gabriel Trujillo](https://githuh.com/Gabriel-T-0988)
+- [Gabriel Trujillo](https://github.com/Gabriel-T-0988)
 
 ```
   ___           _                                    
