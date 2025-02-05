@@ -1,3 +1,3 @@
 ## Pricecheck
 
-* [Ilayda Turgut] (https://github.com/iturgut)
+* [Ilayda Turgut](https://github.com/iturgut)
