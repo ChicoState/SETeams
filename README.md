@@ -1,8 +1,9 @@
-# Software Engineering
+Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
 * [team name](relative/link.md)
+* [CreativeBlock](teams/CreativeBlock.md)
 
 
 ## CSCI 430 (Fall 2024):
