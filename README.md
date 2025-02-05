@@ -2,10 +2,15 @@ Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
+
+* [Heart Disease Detector](teams/HeartDisease.md)
 * [team name](relative/link.md)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
+* [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
+* [Smartinsulin](teams/smartinsulin.md)
+
 
 
 ## CSCI 430 (Fall 2024):
