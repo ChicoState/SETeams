@@ -4,6 +4,7 @@ Software Engineering
 
 * [team name](relative/link.md)
 * [CreativeBlock](teams/CreativeBlock.md)
+* [DJ Song Match](teams/djsongmatch.md)
 
 
 ## CSCI 430 (Fall 2024):
