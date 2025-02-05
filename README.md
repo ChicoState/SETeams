@@ -3,6 +3,7 @@ Software Engineering
 ## CSCI 430 (Spring 2025):
 
 * [team name](relative/link.md)
+* [clipbee](teams/clipbee)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
 * [habitflow](team/habitflow.md)
