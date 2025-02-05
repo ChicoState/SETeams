@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Spring 2025):
 
-* [team name](relative/link.md)
+* [pricecheck](teams/pricecheck.md)
 
 
 ## CSCI 430 (Fall 2024):
