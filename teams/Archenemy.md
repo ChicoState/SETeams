@@ -1,5 +1,7 @@
 ## Archenemy
 
+aka The Hating App
+
 - [Erik Burgess](https://github.com/Cowpriest)
 - [Lawrence Elias Boyd](https://github.com/EliasBoyd)
 - [Jiqing Yang](https://github.com/WERDXZ)
