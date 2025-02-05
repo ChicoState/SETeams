@@ -5,6 +5,7 @@ Software Engineering
 * [team name](relative/link.md)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
+* [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
 * [Smartinsulin](teams/smartinsulin.md)
 
