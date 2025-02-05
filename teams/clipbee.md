@@ -2,4 +2,5 @@
 
 ## Developers
 
-*[Jorge Luevano](https://github.com/JorgeLuevano)
+* [Jorge Luevano](https://github.com/JorgeLuevano)
+* [Trevor Olmo](https://github.com/tjolmo)
