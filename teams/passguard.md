@@ -6,7 +6,7 @@
 * [Cooper Howard]
 (https://github.com/copper-glitch
 *
-*
+* [Paolo Gonzalez] (https://github.com/paologonzalez)
 *
 *
 *
