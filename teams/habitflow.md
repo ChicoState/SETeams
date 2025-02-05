@@ -1,1 +1,1 @@
-[Halin Gailey]{"https://github.com/hgailey"}
+[Halin Gailey](https://github.com/hgailey)
