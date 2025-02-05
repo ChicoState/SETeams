@@ -6,6 +6,7 @@ Software Engineering
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
 * [DJ Song Match](teams/djsongmatch.md)
+* [Smartinsulin](teams/smartinsulin.md)
 
 
 ## CSCI 430 (Fall 2024):
