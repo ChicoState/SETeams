@@ -10,6 +10,7 @@ Software Engineering
 * [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
 * [Smartinsulin](teams/smartinsulin.md)
+* [RoomieBuddy](teams/RoomieBuddy.md)
 
 
 
