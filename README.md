@@ -6,7 +6,9 @@ Software Engineering
 * [RedeemingTheTime](teams/RedeemingTheTime.md)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
+* [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
+* [Smartinsulin](teams/smartinsulin.md)
 
 ## CSCI 430 (Fall 2024):
 
