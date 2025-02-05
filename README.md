@@ -2,12 +2,20 @@ Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
+
 * [Snapshot](teams/Snapshot.md)
 * [team name](relative/link.md)
+* [Archenemy](teams/Archenemy.md)
+* [Heart Disease Detector](teams/HeartDisease.md)
+* [RedeemingTheTime](teams/RedeemingTheTime.md)
+* [clipbee](teams/clipbee.md)
 * [GymBuddy](teams/GymBuddy.md)
 * [CreativeBlock](teams/CreativeBlock.md)
+* [habitflow](team/habitflow.md)
 * [DJ Song Match](teams/djsongmatch.md)
-
+* [Smartinsulin](teams/smartinsulin.md)
+* [pricecheck](teams/pricecheck.md)
+* [RoomieBuddy](teams/RoomieBuddy.md)
 
 ## CSCI 430 (Fall 2024):
 
