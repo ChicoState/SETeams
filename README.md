@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Spring 2025):
 
-* [Heart Disease Detector](teams/Heart disease.md)
+* [Heart Disease Detector](teams/Heart Disease.md)
 
 
 ## CSCI 430 (Fall 2024):
