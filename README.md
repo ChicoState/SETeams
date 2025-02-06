@@ -2,7 +2,6 @@ Software Engineering
 
 ## CSCI 430 (Spring 2025):
 
-
 * [Snapshot](teams/Snapshot.md)
 * [Archenemy](teams/Archenemy.md)
 * [Heart Disease Detector](teams/HeartDisease.md)
