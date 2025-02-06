@@ -6,4 +6,4 @@
 * [Hugo Tanaka](https://github.com/AlphaIru)
 * [William Westfahl](https://github.com/t-westfahl)
 * [Elijah Coleman](https://github.com/EscGit)
-* [Jacob Contreras](https://github.com/jacobecontreras)
+* [Jacob E Contreras](https://github.com/jacobecontreras)
