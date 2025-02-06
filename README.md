@@ -4,7 +4,6 @@ Software Engineering
 
 
 * [Snapshot](teams/Snapshot.md)
-* [team name](relative/link.md)
 * [Archenemy](teams/Archenemy.md)
 * [Heart Disease Detector](teams/HeartDisease.md)
 * [RedeemingTheTime](teams/RedeemingTheTime.md)
