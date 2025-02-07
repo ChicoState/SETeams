@@ -2,6 +2,8 @@
 
 ## CSCI 430 (Spring 2025):
 
+* [PassGuard](teams/passguard.md)
+* [Snapshot](teams/Snapshot.md)
 * [Archenemy](teams/Archenemy.md)
 * [clipbee](teams/clipbee.md)
 * [CreativeBlock](teams/CreativeBlock.md)
