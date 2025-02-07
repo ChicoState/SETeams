@@ -9,7 +9,7 @@
 * [CreativeBlock](teams/CreativeBlock.md)
 * [DJ Song Match](teams/djsongmatch.md)
 * [GymBuddy](teams/GymBuddy.md)
-* [habitflow](team/habitflow.md)
+* [habitflow](teams/habitflow.md)
 * [Heart Disease Detector](teams/HeartDisease.md)
 * [PassGuard](teams/passguard.md)
 * [pricecheck](teams/pricecheck.md)
