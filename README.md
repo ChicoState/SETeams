@@ -2,6 +2,7 @@
 
 ## CSCI 430 (Fall 2025):
 
+* [a11ytagger](teams/a11ytagger.md)
 * [Musicdle](teams/Musicdle.md)
 
 
