@@ -5,6 +5,7 @@
 * [a11ytagger](teams/a11ytagger.md)
 * [FoodMinder](teams/FoodMinder.md)
 * [Musicdle](teams/Musicdle.md)
+* [PrivateCalendar](teams/PrivateCalendar.md)
 
 
 ## CSCI 430 (Spring 2025):
