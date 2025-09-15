@@ -1,3 +1,4 @@
 ## FoodMinder
 
-Matthew Hernandez, [matthernandezmh](https://github.com/matthernandezmh)
+- Nicolas Reiss, [abreiss](https://github.com/abreiss)
+- Matthew Hernandez, [matthernandezmh](https://github.com/matthernandezmh)
