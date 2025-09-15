@@ -1,5 +1,10 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2025):
+
+
+
+
 ## CSCI 430 (Spring 2025):
 
 * [Archenemy](teams/Archenemy.md)
