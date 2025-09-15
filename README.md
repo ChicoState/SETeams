@@ -9,6 +9,7 @@
 * [GymBuddy](teams/GymBuddy.md)
 * [habitflow](teams/habitflow.md)
 * [Heart Disease Detector](teams/HeartDisease.md)
+* [NewTabPlus](teams/NewTabPlus.md)
 * [PassGuard](teams/passguard.md)
 * [pricecheck](teams/pricecheck.md)
 * [RedeemingTheTime](teams/RedeemingTheTime.md)
