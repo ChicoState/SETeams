@@ -1,6 +1,6 @@
 ## FoodMinder
 
-- [rjkaschmitter](https://github.com/rjkaschmitter)
+- [Ryan Kaschmitter](https://github.com/rjkaschmitter)
 - [Stephan Takacs](https://github.com/stakacs2021)
 - [Cameron Sweet](https://github.com/Cbsweet123)
 - [Nicolas Reiss](https://github.com/abreiss)
