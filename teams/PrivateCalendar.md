@@ -1,5 +1,5 @@
 # Private Calendar
 
-# Dev team
+## Dev team
 
 Liam Lassonde, [SuperMouse101](https://github.com/SuperMouse101)
