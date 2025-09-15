@@ -3,6 +3,7 @@
 ## CSCI 430 (Fall 2025):
 
 * [a11ytagger](teams/a11ytagger.md)
+* [CultureDish](teams/culturedish.md)
 * [FoodMinder](teams/FoodMinder.md)
 * [Musicdle](teams/Musicdle.md)
 
