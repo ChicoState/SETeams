@@ -4,6 +4,7 @@
 
 * [a11ytagger](teams/a11ytagger.md)
 * [FoodMinder](teams/FoodMinder.md)
+* [FoodScan](teams/foodscan.md)
 * [Musicdle](teams/Musicdle.md)
 
 
