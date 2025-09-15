@@ -1,1 +1,3 @@
-Sean Evpak, [sevpak](https://github.com/sevpak)
+## Developers
+
+* Sean Evpak, [sevpak](https://github.com/sevpak)
