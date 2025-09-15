@@ -4,8 +4,8 @@
 
 * [a11ytagger](teams/a11ytagger.md)
 * [FoodMinder](teams/FoodMinder.md)
-* [Musicdle](teams/Musicdle.md)
 * [FoodScan](teams/foodscan.md)
+* [Musicdle](teams/Musicdle.md)
 
 
 ## CSCI 430 (Spring 2025):
