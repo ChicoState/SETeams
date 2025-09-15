@@ -1,5 +1,10 @@
 # Software Engineering
 
+## CSCI 430 (Fall 2025):
+
+* [NewTabPlus](teams/NewTabPlus.md)
+
+
 ## CSCI 430 (Spring 2025):
 
 * [Archenemy](teams/Archenemy.md)
@@ -25,7 +30,7 @@
 * [Dynamic Scheduler](teams/DynamicScheduler.md)
 * [Fight Me](teams/FightMe.md)
 * [Good Days](teams/GoodDays.md)
-* [Odd Jobs](teams/Odd-Jobs.md) 
+* [Odd Jobs](teams/Odd-Jobs.md)
 * [Pickup](teams/Pickup.md)
 * [SoundCircle](teams/SoundCircle.md)
 * [StaySafe](teams/StaySafe.md)
