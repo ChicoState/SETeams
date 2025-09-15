@@ -1,9 +1,5 @@
+
 ## a11ytagger
-
-
-
-
-- [Ezaz Ahamad](https://github.com/ezazahamad2003)
 
 
 ```
@@ -14,4 +10,12 @@
   \__,_|_|_|\__, |\__\__,_|\__, |\__, |\___|_|   
             |___/          |___/ |___/ 
 ```
+
+=======
+
+
+## Devs
+- Heath Brough [HBrough-6](https://github.com/HBrough-6)
+- Colin Jamison [Valinora](https://github.com/Valinora)
+- [Ezaz Ahamad](https://github.com/ezazahamad2003)
 
