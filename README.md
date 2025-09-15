@@ -1,7 +1,7 @@
 # Software Engineering
 
 ## CSCI 430 (Fall 2025):
-
+[FoodMinder](teams/FoodMinder.md)
 
 
 
