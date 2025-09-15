@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Fall 2025):
 
-
+* [Musicdle](teams/Musicdle.md)
 
 
 ## CSCI 430 (Spring 2025):
