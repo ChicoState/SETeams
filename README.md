@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Fall 2025):
 
-*[crmtool](teams/crmtool.md)
+* [crmtool](teams/crmtool.md)
 
 ## CSCI 430 (Spring 2025):
 
