@@ -2,3 +2,4 @@
 * Lauren Runion [laurunion] (https://github.com/laurunion)
 * Lindsey Lydon [llydon] (https://github.com/llydon)
 * Nathan Book [nbook-chico] (https://github.com/nbook-chico)
+* Alejandro Barajas [alex-115] (https://github.com/alex-115)
