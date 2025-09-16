@@ -8,6 +8,8 @@
 * [InTheBand](teams/InTheBand.md)
 * [Musicdle](teams/Musicdle.md)
 * [NewTabPlus](teams/NewTabPlus.md)
+* [Skillswap](teams/Skillswap.md)
+
 
 ## CSCI 430 (Spring 2025):
 
