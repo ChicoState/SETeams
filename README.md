@@ -11,9 +11,10 @@
 * [InTheBand](teams/InTheBand.md)
 * [Musicdle](teams/Musicdle.md)
 * [NewTabPlus](teams/NewTabPlus.md)
+* [Politigo](teams/Politigo.md)
 * [PrivateCalendar](teams/PrivateCalendar.md)
 * [Skillswap](teams/Skillswap.md)
-* [Politigo](teams/Politigo.md)
+
 
 ## CSCI 430 (Spring 2025):
 
