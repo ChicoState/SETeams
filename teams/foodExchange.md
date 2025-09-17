@@ -3,3 +3,4 @@
 * Lindsey Lydon [llydon] (https://github.com/llydon)
 * Nathan Book [nbook-chico] (https://github.com/nbook-chico)
 * Alejandro Barajas [alex-115] (https://github.com/alex-115)
+* Abram Jimenez [Tiggzzz] (https://github.com/Tiggzzz)
