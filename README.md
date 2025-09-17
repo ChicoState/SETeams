@@ -6,6 +6,7 @@
 * [crmtool](teams/crmtool.md)
 * [CultureDish](teams/culturedish.md)
 * [FoodMinder](teams/FoodMinder.md)
+* [FoodScan](teams/foodscan.md)
 * [InTheBand](teams/InTheBand.md)
 * [Musicdle](teams/Musicdle.md)
 * [NewTabPlus](teams/NewTabPlus.md)
