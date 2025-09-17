@@ -2,7 +2,14 @@
 
 ## CSCI 430 (Fall 2025):
 
-
+* [a11ytagger](teams/a11ytagger.md)
+* [crmtool](teams/crmtool.md)
+* [CultureDish](teams/culturedish.md)
+* [FoodMinder](teams/FoodMinder.md)
+* [InTheBand](teams/InTheBand.md)
+* [Musicdle](teams/Musicdle.md)
+* [NewTabPlus](teams/NewTabPlus.md)
+* [Skillswap](teams/Skillswap.md)
 
 
 ## CSCI 430 (Spring 2025):
@@ -29,7 +36,7 @@
 * [Dynamic Scheduler](teams/DynamicScheduler.md)
 * [Fight Me](teams/FightMe.md)
 * [Good Days](teams/GoodDays.md)
-* [Odd Jobs](teams/Odd-Jobs.md) 
+* [Odd Jobs](teams/Odd-Jobs.md)
 * [Pickup](teams/Pickup.md)
 * [SoundCircle](teams/SoundCircle.md)
 * [StaySafe](teams/StaySafe.md)
