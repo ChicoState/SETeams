@@ -11,7 +11,7 @@
 * [InTheBand](teams/InTheBand.md)
 * [Musicdle](teams/Musicdle.md)
 * [NewTabPlus](teams/NewTabPlus.md)
-* [Politigo](teams/Politigo.md)
+* [Politigo](teams/Politicgo.md)
 * [PrivateCalendar](teams/PrivateCalendar.md)
 * [Skillswap](teams/Skillswap.md)
 
