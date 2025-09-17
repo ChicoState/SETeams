@@ -13,6 +13,7 @@
 * [NewTabPlus](teams/NewTabPlus.md)
 * [PrivateCalendar](teams/PrivateCalendar.md)
 * [Skillswap](teams/Skillswap.md)
+* [Politigo] (teams/Politigo.md)
 
 ## CSCI 430 (Spring 2025):
 
