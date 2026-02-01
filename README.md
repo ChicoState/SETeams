@@ -1,5 +1,21 @@
 # Software Engineering
 
+* [Agreed]()
+* [AlarmFlow]()
+* [AllergyDetect]()
+* [ArchVim]()
+* [CampusResource]()
+* [CheatSheet]()
+* [Cross-Playlist]()
+* [DuoSort]()
+* [FlightArrange]()
+* [GradeYourMelody]()
+* [HumphreyComeHome]()
+* [PokerRanked]()
+* [TrickyTreat]()
+* [TrueSafeguard]()
+* [Unstuck]()
+
 ## CSCI 430 (Fall 2025):
 
 * [a11ytagger](teams/a11ytagger.md)
