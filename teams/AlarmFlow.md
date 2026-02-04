@@ -2,9 +2,9 @@
 
 ## Developers
  
-* Sarah Jennings - [smennings](github.com/smennings)
+* Sarah Jennings - [smennings](https://github.com/smennings)
 * Kevin Xiong -
-* Ivan Miziuk -
+* Ivan Miziuk - [imiziuk](https://github.com/imiziuk)
 * Tabbatha Motley - [SynthNibber](https://github.com/SynthNibbler)
 * Tristen Hale -
 
