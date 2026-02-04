@@ -1,17 +1,11 @@
 ## Poker Ranked Team Members
 
-
-
-```
+`
  ____  ____  _  __ _____ ____    ____  ____  _      _  __ _____ ____
 /  __\/  _ \/ |/ //  __//  __\  /  __\/  _ \/ \  /|/ |/ //  __//  _ \
 |  \/|| / \||   / |  \  |  \/|  |  \/|| / \|| |\ |||   / |  \  | | \|
 |  __/| \_/||   \ |  /_ |    /  |    /| |-||| | \|||   \ |  /_ | |_/|
 \_/   \____/\_|\_\\____\\_/\_\  \_/\_\\_/ \|\_/  \|\_|\_\\____\\____/
-
-```
-
-=======
 
 
 
@@ -19,3 +13,4 @@
 Robert Williams [robert00000](https://github.com/robert00000)
 Anthony Dang [DilyCantCode](https://github.com/DilyCantCode)
 Jasper Eerkens[j4sperneedshelp](https://github.com/j4sperneedshelp)
+Brandon Underwood [Bunderwood2676](https://github.com/Bunderwood2676)
