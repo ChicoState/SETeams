@@ -1,4 +1,4 @@
 # Humphrey Come Home
 
 ## Developers
-- [Jaden Watson](https://github.com/igaboo)
+- Jaden Watson - [igaboo](https://github.com/igaboo)
