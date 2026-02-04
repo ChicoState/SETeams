@@ -2,7 +2,7 @@
 
 ## CSCI 430 (Spring 2026):
 
-* [Agreed]()
+* [Agreed](teams/Agreed.md)
 * [AlarmFlow](teams/AlarmFlow.md)
 * [AllergyDetect]()
 * [ArchVim]()
