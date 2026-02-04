@@ -3,10 +3,10 @@
 ## CSCI 430 (Spring 2026):
 
 * [Agreed]()
-* [AlarmFlow]()
+* [AlarmFlow](teams/AlarmFlow.md)
 * [AllergyDetect]()
 * [ArchVim](teams/ArchVim.md)
-* [CampusResource]()
+* [CampusResource](teams/CampusResource.md)
 * [CheatSheet]()
 * [Cross-Playlist]()
 * [DuoSort]()
