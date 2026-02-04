@@ -14,7 +14,7 @@
 * [GradeYourMelody]()
 * [HumphreyComeHome]()
 * [PokerRanked]()
-* [TrickyTreatTracker](teams/TrickyTreatTracker)
+* [TrickyTreatTracker](teams/TrickyTreatTracker.md)
 * [TrueSafeguard]()
 * [Unstuck]()
 
