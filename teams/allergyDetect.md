@@ -1,3 +1,4 @@
 # AllergyDetect
 
 - Logan Roche, [Logan-Roche](https://github.com/Logan-Roche)
+- Stephen Dumore, [stephen2002119](https://github.com/stephen2002119)
