@@ -1,4 +1,5 @@
 # [ArchVim](https://github.com/Ultramas/ArchVim)
 
 
--Ryan Meline, [RyanMeline](github.com/RyanMeline)
+- Rainier Ring, [iRainy22](https://github/iRainy22)
+- Ryan Meline, [RyanMeline](github.com/RyanMeline)
