@@ -1,5 +1,5 @@
 # Humphrey Come Home
 
 ## Developers
-- [Jaden Watson](https://github.com/igaboo)
-- [Eathan Tillman](https://github.com/EathanT)
+- Jaden Watson [igaboo](https://github.com/igaboo)
+- Eathan Tillman [EathanT](https://github.com/EathanT)
