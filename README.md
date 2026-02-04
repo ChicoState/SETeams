@@ -5,7 +5,7 @@
 * [Agreed]()
 * [AlarmFlow]()
 * [AllergyDetect]()
-* [ArchVim]()
+* [ArchVim](teams/ArchVim.md)
 * [CampusResource]()
 * [CheatSheet]()
 * [Cross-Playlist]()
