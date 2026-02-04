@@ -6,7 +6,7 @@
 * [AlarmFlow]()
 * [AllergyDetect]()
 * [ArchVim]()
-* [CampusResource]()
+* [CampusResource](teams/CampusResource.md)
 * [CheatSheet]()
 * [Cross-Playlist]()
 * [DuoSort]()
