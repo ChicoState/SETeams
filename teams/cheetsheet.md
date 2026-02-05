@@ -1,4 +1,4 @@
-## cheetsheet.md
+## Cheetsheet.md
 
 # CheetSheetGenerator
 
