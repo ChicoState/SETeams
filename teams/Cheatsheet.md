@@ -1,6 +1,6 @@
-## Cheetsheet.md
+## Cheatsheet.md
 
-# CheetSheetGenerator
+# CheatSheetGenerator
 
 ...
        
