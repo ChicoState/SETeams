@@ -5,7 +5,6 @@
 * [Agreed](teams/Agreed.md)
 * [AlarmFlow](teams/AlarmFlow.md)
 * [AllergyDetect]()
-* [CampusResource]()
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
 * [CheatSheet](teams/Cheatsheet.md)
