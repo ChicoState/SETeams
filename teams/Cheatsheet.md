@@ -2,10 +2,6 @@
 
 # CheatSheetGenerator
 
-...
-       
-...
-
 ## Developers
 
 - Brandon Tran, [bdtran2002](https://github.com/bdtran2002)
