@@ -7,7 +7,7 @@
 * [AllergyDetect]()
 * [ArchVim]()
 * [CampusResource]()
-* [CheatSheet](teams/Cheetsheet.md)
+* [CheatSheet](teams/Cheatsheet.md)
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
 * [CheatSheet]()
