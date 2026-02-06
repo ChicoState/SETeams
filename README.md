@@ -7,7 +7,7 @@
 * [AllergyDetect]()
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
-* [CheatSheet]()
+* [CheatSheet](teams/Cheatsheet.md)
 * [Cross-Playlist]()
 * [DuoSort]()
 * [FlightArrange]()
