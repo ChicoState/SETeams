@@ -15,7 +15,7 @@
 * [HumphreyComeHome]()
 * [PokerRanked]()
 * [TrickyTreatTracker](teams/TrickyTreatTracker.md)
-* [TrueSafeguard]()
+* [TrueSafeguard](teams/TrueSafeguard.md)
 * [Unstuck]()
 
 ## CSCI 430 (Fall 2025):
