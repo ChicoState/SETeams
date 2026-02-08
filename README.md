@@ -2,11 +2,11 @@
 
 ## CSCI 430 (Spring 2026):
 
-* [Agreed]()
+* [Agreed](teams/Agreed.md)
 * [AlarmFlow](teams/AlarmFlow.md)
 * [AllergyDetect]()
-* [ArchVim]()
-* [CampusResource]()
+* [ArchVim](teams/ArchVim.md)
+* [CampusResource](teams/CampusResource.md)
 * [CheatSheet]()
 * [Cross-Playlist]()
 * [DuoSort]()
@@ -14,7 +14,7 @@
 * [GradeYourMelody]()
 * [HumphreyComeHome]()
 * [PokerRanked]()
-* [TrickyTreat]()
+* [TrickyTreatTracker](teams/TrickyTreatTracker.md)
 * [TrueSafeguard](teams/TrueSafeguard.md)
 * [Unstuck]()
 
