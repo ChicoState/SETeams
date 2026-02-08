@@ -6,3 +6,4 @@
 * Skye Santilla - [sesantilla](https://github.com/sesantilla)
 * Abraham Hernandez - [AbramHernandez](https://github.com/AbramHernandez)
 * Imagen Larson - [ImagenL](https://github.com/ImagenL)
+* Jordan Bailey - [Jordanbailey-csci](https://github.com/Jordanbailey-csci)
