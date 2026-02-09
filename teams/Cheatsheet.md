@@ -1,8 +1,4 @@
-## Cheatsheet.md
-
 # CheatSheetGenerator
-
-## Developers
 
 - Brandon Tran, [bdtran2002](https://github.com/bdtran2002)
 - Jesse Ortiz, [impxcts](https://github.com/impxcts)
