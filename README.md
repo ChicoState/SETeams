@@ -13,7 +13,7 @@
 * [FlightArrange]()
 * [GradeYourMelody]()
 * [HumphreyComeHome]()
-* [PokerRanked]()
+* [PokerRanked](teams/poker-ranked)
 * [TrickyTreat]()
 * [TrueSafeguard]()
 * [Unstuck]()
