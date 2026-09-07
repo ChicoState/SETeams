@@ -11,12 +11,12 @@
 * [Cross-Playlist]()
 * [DuoSort]()
 * [FlightArrange]()
-* [GradeYourMelody]()
-* [HumphreyComeHome]()
+* [GradeYourMelody](teams/gradeyourmelody.md)
+* [HumphreyComeHome](teams/humphreycomehome.md)
 * [PokerRanked]()
 * [TrickyTreatTracker](teams/TrickyTreatTracker.md)
 * [TrueSafeguard](teams/TrueSafeguard.md)
-* [Unstuck]()
+* [Unstuck](teams/Unstuck.md)
 
 ## CSCI 430 (Fall 2025):
 
