@@ -7,10 +7,10 @@
 * [AllergyDetect](teams/allergyDetect.md)
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
-* [CheatSheet]()
-* [Cross-Playlist]()
-* [DuoSort]()
-* [FlightArrange]()
+* CheatSheet
+* Cross-Playlist
+* DuoSort
+* FlightArrange
 * [GradeYourMelody](teams/gradeyourmelody.md)
 * [HumphreyComeHome](teams/humphreycomehome.md)
 * [PokerRanked](teams/poker-ranked.md)
