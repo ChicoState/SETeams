@@ -7,16 +7,16 @@
 * [AllergyDetect](teams/allergyDetect.md)
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
-* [CheatSheet]()
-* [Cross-Playlist]()
-* [DuoSort]()
-* [FlightArrange]()
-* [GradeYourMelody]()
-* [HumphreyComeHome]()
+* CheatSheet
+* Cross-Playlist
+* DuoSort
+* FlightArrange
+* [GradeYourMelody](teams/gradeyourmelody.md)
+* [HumphreyComeHome](teams/humphreycomehome.md)
 * [PokerRanked](teams/poker-ranked.md)
 * [TrickyTreatTracker](teams/TrickyTreatTracker.md)
 * [TrueSafeguard](teams/TrueSafeguard.md)
-* [Unstuck]()
+* [Unstuck](teams/Unstuck.md)
 
 ## CSCI 430 (Fall 2025):
 
