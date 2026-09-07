@@ -4,7 +4,7 @@
 
 * [Agreed](teams/Agreed.md)
 * [AlarmFlow](teams/AlarmFlow.md)
-* [AllergyDetect]()
+* [AllergyDetect](teams/allergyDetect.md)
 * [ArchVim](teams/ArchVim.md)
 * [CampusResource](teams/CampusResource.md)
 * [CheatSheet]()
@@ -13,7 +13,7 @@
 * [FlightArrange]()
 * [GradeYourMelody](teams/gradeyourmelody.md)
 * [HumphreyComeHome](teams/humphreycomehome.md)
-* [PokerRanked]()
+* [PokerRanked](teams/poker-ranked.md)
 * [TrickyTreatTracker](teams/TrickyTreatTracker.md)
 * [TrueSafeguard](teams/TrueSafeguard.md)
 * [Unstuck](teams/Unstuck.md)
